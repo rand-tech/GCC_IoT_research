@@ -1,0 +1,1001 @@
+Title,Count
+Chromecast,990925
+Netflix,797864
+net-snmp,478722
+nginx,406058
+OpenSSH,283264
+MQTT,260772
+Apache httpd,252037
+lighttpd,199625
+AkamaiGHost,197188
+Hikvision IP Camera,150993
+Microsoft IIS httpd,130264
+AWS ELB,130239
+PPTP,127845
+Boa Web Server,78607
+MySQL,71443
+Dropbear sshd,68363
+rsyncd,65830
+"U.C. Davis, ECE Dept. Tom",65226
+CloudFront httpd,60869
+Remote Desktop Protocol,58472
+Microsoft HTTPAPI httpd,47670
+ciscoSystems,44243
+ntpd,30499
+GoAhead-Webs httpd,29207
+mDNS,28578
+Apache Tomcat/Coyote JSP engine,28108
+Firebird RDBMS,26684
+Linux SNMP multiplexer,26350
+Broadcom Corporation,25906
+OpenResty,23271
+SmartXFilter,22379
+GoAhead Embedded Web Server,20276
+CUPS (IPP),20124
+Microsoft RPC Endpoint Mapper,19657
+MikroTik bandwidth-test server,19461
+Dahua XVR,19404
+TightVNC Java Viewer,19068
+AirPlay,17894
+Hydra,17826
+Netatalk,17292
+VNC,16907
+mini_httpd,16202
+LG webOS TV,16187
+uc-httpd,15018
+Echo,14669
+Windows qotd,14343
+Ralink router 1,14291
+Pure-FTPd,11759
+Spotify Connect,11537
+Boa HTTPd,11515
+BGP,11315
+PostgreSQL,11001
+rdate,10657
+Postfix smtpd,10281
+"Juniper Networks, Inc.",9816
+Kubernetes,9488
+WinRM,9386
+gSOAP soap,9319
+Microsoft ftpd,9307
+Dahua DVR,8822
+Swift,7762
+ProFTPD,7655
+thttpd,7645
+Apache Tomcat,7214
+Plex,7092
+TFTP,6878
+Virata-EmWeb,5788
+openHAB,5505
+Squid http proxy,5401
+Oracle TNS Listener,5098
+ASUS AiCloud,5091
+Dahua HCVR,4937
+MySQL X Protocol,4784
+VMware Authentication Daemon,4586
+Wowza Streaming Engine,4116
+mt-daapd DAAP,3939
+Sendmail,3916
+ASUS Wireless Router RT-AX56U,3906
+Jetty,3813
+MikroTik,3733
+Cisco IOS http config,3607
+RealVNC Enterprise,3538
+Famatech Radmin,3488
+Pocket CMD telnetd,3303
+Minecraft,3291
+Node.js,3234
+Dahua NVR,3156
+VMware ESXi,3121
+Linksys wireless-G WAP http config,3086
+Tinyproxy,3068
+"DASAN Co.,LTD.",2887
+Redis key-value store,2830
+PRAVIS,2664
+MongoDB,2655
+Genome Variation Server,2596
+Mosquitto,2540
+SonicWall,2531
+Steam Dedicated Server,2415
+Tengine,2252
+Microsoft ESMTP,2206
+Apple remote desktop vnc,2131
+ASUS Wireless Router RT-AC68U,2116
+MS-SQL Server 2000 SP4,2099
+MS-SQL Server 2008 SP1,2076
+Samsung UE55D7000 TV http config,2009
+MS-SQL Server 2005 SP3,1961
+Heimdal Kerberos,1852
+BigIP,1844
+Subversion,1793
+SonicWALL firewall http config,1785
+QNAP,1760
+ASUS Wireless Router RT-AC58U,1724
+Kong Gateway,1717
+Aruba Instant,1679
+DD-WRT milli_httpd,1669
+MS-SQL Server 2008 R2 SP2,1658
+RabbitMQ,1656
+Jenkins,1655
+"Samsung Electronics Co., LTD.",1646
+Aruba Networks Inc,1606
+Portainer,1605
+Prometheus Node Exporter,1592
+MikroTik Winbox,1546
+Erlang Port Mapper Daemon,1541
+Canon printer web interface,1532
+Dahua-based XVR,1479
+Vtun Virtual Tunnel,1472
+Werkzeug httpd,1370
+HP iLO,1353
+EFM Networks ipTIME N104R-KTT 1,1350
+ASUS Wireless Router RT-AX55,1325
+Tornado Web Server,1321
+Tuya,1314
+MS-SQL Server 2014 RTM,1257
+Apple AirPort,1241
+Dahua DHI-XVR5104H,1148
+"HUAWEI Technology Co.,Ltd",1139
+Kestrel,1135
+CloudFlare,1074
+Texas Instruments,1068
+GPRS Tunneling Protocol,1062
+Home Assistant,1044
+Cisco PIX sanitized smtpd,1039
+GitLab Self-Managed,1037
+Grafana (Open Source),1015
+Allegro RomPager,1000
+GoAhead-Webs embedded httpd,990
+xinetd chargen,987
+MS-SQL Server 2008 R2 RTM,983
+MS-SQL Server 2000 SP3a,964
+micro_httpd,946
+ASUS Wireless Router RT-AC59U V2,942
+Istio Service Mesh,932
+Dahua DHI-XVR5104HS-S2,930
+Dahua DH-XVR5104HS-I3,926
+D-Link DLS-2750U ftp firmward update,838
+Philips Hue Bridge v2 (BSB002),836
+Microsoft Exchange smtpd,835
+RealVNC,834
+Exim smtpd,833
+VMware Workstation,829
+Cross Web Server,827
+ClamAV,825
+MS-SQL Server 2019 RTM,817
+ASUS Wireless Router RT-AC88U,813
+MS-SQL Server 2005 SP4,790
+iKuai,746
+Debut embedded httpd,742
+ASUS Wireless Router RT-AX3000,739
+ENM ENM,738
+OpenVPN Access Server CWS,733
+ASUS Wireless Router RT-AX88U,710
+Synology DiskStation NAS ftpd,692
+EdgePrism,691
+BaseHTTPServer,684
+GNU Inetutils FTPd,681
+"Brocade Communication Systems, Inc. (formerly 'Foundry Networks, Inc.')",659
+ASUS Wireless Router RT-AC750L,654
+Check Point Firewall,632
+SimpleHTTPServer,630
+NetScreen sshd,619
+Dahua DH-XVR5104H-I3,616
+Cisco router telnetd,612
+ASUS Wireless Router RT-AX82U,609
+Samba,597
+Microsoft Azure Application Gateway,588
+Elastic,586
+Zscaler Cloud Services,574
+vsftpd,549
+Dahua DHI-HCVR4104HS-S3,547
+Dahua DH-XVR5108HS-I3,540
+Dahua-based ERD-041BH-I,527
+Sophos SSL VPN User Portal,524
+Nextcloud,521
+ASUS Wireless Router TUF-AX3000,509
+MS-SQL Server 2012 RTM,504
+ChipPC Extreme httpd,497
+Microsoft RPC Endpoint Mapper over HTTP,497
+InfluxDB,493
+Dahua DH-XVR1B04H-I,487
+WindWeb,486
+Cisco router tftpd,482
+EFM Networks ipTIME N604R 1,477
+ZyXEL Communications Corp.,474
+Xiaomi IoT,472
+MS-SQL Server 2017 RTM,466
+FortiGate Endpoint Control httpd,462
+MikroTik RouterOS API Service,451
+"Net & Sys Co., Ltd",450
+"NetScreen Technologies, Inc.",438
+MS-SQL Server 2005 RTM,430
+Resin Web Server,427
+HP Integrated Lights-Out mpSSH,419
+Cisco catalyst switch telnetd,413
+CANON Inc.,408
+Alibaba Cloud Object Storage Service,401
+FreeBSD ftpd,398
+Dahua DH-XVR5108H-I3,397
+ASUS Wireless Router RT-AC68P,391
+uhttpd Web Server,386
+MS-SQL Server 2014 SP2,384
+Kafka,383
+SNMP Research,380
+ASUS Wireless Router ZenWiFi AX,378
+"Deonet Co., Ltd.",378
+Outlook Web App,377
+Web-Based Enterprise Management CIM serverOpenPegasus WBEM httpd,373
+Mbedthis Appweb,371
+H3C,370
+Sophos User Portal,367
+ASUS Wireless Router RT-AC1900P,355
+ASUS Wireless Router GT-AX11000,350
+oftpd,344
+"SonicWALL, Inc.",342
+Dahua DH-HCVR5104H-S2,339
+SQL Server Browser Service,339
+"Xirrus, Inc.",336
+ASUS Wireless Router RT-AX86U,332
+bftpd,330
+ASUS Wireless Router TUF-AX5400,329
+Linksys WRT45G modified dropbear sshd,329
+Ventrilo,323
+Microsoft IIS,321
+RealVNC Personal,321
+CherryPy httpd,315
+MS-SQL Server 2019 GDR1+,312
+Azure Bastion,305
+WU-FTPD,303
+Microsoft Windows RPC over HTTP,301
+Lotus Domino httpd,297
+Microsoft RPC,295
+ASUS Wireless Router RT-AC86U,294
+Dahua DHI-XVR5108HS-S2,293
+Apple Remote Desktop,292
+Dahua DHI-XVR5108HS-4KL,292
+Windows 2003 Kerberos,285
+MS-SQL Server 2014 RTM+,284
+Jooyon XVR,281
+"Beijing SplendidTel Co.,Ltd.",280
+Hewlett-Packard,280
+Dahua DHI-NVR2104HS-P-4KS2,279
+Oracle XML DB Enterprise Edition httpd,271
+Dahua-based ERD-0851HS-X,263
+Ganglia XML Grid monitor,262
+Ethereum Discovery Protocol,257
+RapidLogic httpd,257
+DCS1_8,252
+TwistedWeb,248
+Dahua-based DH-XVR5104H-I3,236
+MS-SQL Server 2008 R2 SP1,230
+TwonkyMedia UPnP,228
+Amazon S3 httpd,227
+Android Debug Bridge (ADB),227
+Tableau Server,227
+Microsoft,224
+Wowza Media Server,220
+C56x Series,219
+NoMachine NX Server remote desktop,216
+PWS httpd,215
+Brother printer tftpd,214
+EFM Networks ipTIME Q604 1,214
+WildFly,212
+M267x 287x Series,210
+ASUS Wireless Router RT-AC59U,209
+Serv-U ftpd,208
+iperf3,206
+Android Debug Bridge,205
+EFM Networks ipTIME A2004NS 1,204
+C48x Series,200
+D-Link Corporation D-Link DIR-806A Wireless AC Dual Band Router,200
+MS-SQL Server 2014 SP3,200
+Agranat-EmWeb,196
+EFM Networks ipTIME N104R 1,192
+HP Officejet Pro 8600 printer http config,189
+MiniServ,189
+Qpopper pop3d,184
+Dahua-based DH-XVR5104HS-I3,183
+Junoscript XML Interface,183
+Connectra Check Point Web Security httpd,181
+Dahua-based ERN-0421HS-P,179
+EFM Networks ipTIME N604V 1,178
+MS-SQL Server 2008 RTM,176
+WEBrick httpd,176
+MailEnable smptd,175
+Alcatel-Lucent Enterprise (previous was 'Alcatel'),171
+ASUS Wireless Router RT-AC87U,169
+WebRTC,169
+Dahua PC-NVR-V3.0,168
+EFM Networks ipTIME N704M 1,168
+Pulse Secure,165
+Dahua-based HCVR,164
+HP OfficeJet Pro 8210,164
+Dahua DHI-XVR4104HS,163
+Dahua-based ERD-0451HS-I3,163
+Dahua DHI-XVR5108H,160
+Dahua DHI-XVR5116HS-S2,159
+MS-SQL Server 2017 RTM+,158
+Dahua-based DVR,155
+EFM Networks ipTIME N2E 1,154
+AnNyung smtpd,153
+TeamViewer,151
+Compaq,150
+Extreme Networks,150
+ASUS Wireless Router GT-AC5300,148
+Oracle WebLogic Server,146
+EFM Networks ipTIME Q504 1,145
+libssh,145
+EFM Networks ipTIME N604S 1,139
+IP Camera,138
+SMC SMC2870W Wireless Ethernet Bridge,138
+3Com,137
+EFM Networks ipTIME N104V 1,137
+Dahua DHI-XVR5104HS,136
+WeOnlyDo sshd,133
+Dahua DHI-NVR4104HS-P-4KS2/L,132
+C43x Series,131
+Dahua DH-XVR4104HS-I,131
+Sonos CONNECT:AMP,131
+Dahua DHI-XVR5216AN-4KL,130
+HP Officejet Pro 8100 printer http config,130
+Oracle iPlanet Web Server,130
+ASUS Wireless Router RT-AC51UPlus,127
+"Mega System Technologies, Inc.",127
+OpenVPN Access Server,127
+C51x Series,126
+ASUS Wireless Router RT-AC68W,123
+MikroTik router ftpd,123
+Dahua DHI-XVR4108HS,122
+ASUS Wireless Router BLUE CAVE,120
+ASUS Wireless Router RT-AX92U,120
+ASUS Wireless Router RT-AC5300,119
+FileZilla ftpd,119
+Grafana (Enterprise),119
+Lantronix X90,118
+Dahua-based ERD-0451HS-X1,117
+Samsung Smart TV UN50H6400,117
+Ruby Tech Corp.,115
+Dahua DH-XVR5104HS-4KL-I2,114
+M268x_M289x Series,114
+Plan 9 tftpd,114
+QNAP TS-453Be,114
+MailEnable POP3 Server,112
+D-Link DIR-850L WAP http config,111
+Dahua DHI-NVR4108HS-8P-4KS2/L,111
+Dahua DH-XVR5116HS-X,110
+ENM ENM-A04R2,110
+HP-UX or AIX ftpd,110
+M2070 Series,110
+SunSSH,110
+Docker Registry HTTP API,109
+EFM Networks ipTIME N104M 1,109
+MS-SQL Server 2008 R2 SP2+,109
+Samsung Smart TV UN50H5800,109
+Dahua DH-XVR5104H-4KL-I3,108
+Jooyon NVR,107
+ASUS Wireless Router RT-AC68R,105
+Kangle Web Server,105
+MMC Technology MM02-005H 1.08.09,105
+MS-SQL Server 2016 RTM,105
+MMC Technology MM01-005H 1.08.09,104
+QNAP TS-228 TS-228,104
+Samsung Smart TV UN55H6400,104
+"Force10 Networks, Inc.",103
+MS-SQL Server 2012 SP4,103
+UW imapd,103
+Indy httpd,102
+Netwave IP camera http config,102
+ASUS Wireless Router RT-AC87R,101
+Dahua-based ERD-0851HS-I3,100
+QNAP TS-431,100
+MS-SQL Server 2016 SP1,99
+Gunicorn,98
+IBM HTTP Server,98
+MS-SQL Server,98
+Samsung Smart TV UN65J6200,98
+Socks4A,98
+Webmin,97
+Asterisk,96
+Memcached,96
+RunCloud Nginx,96
+Brother/HP printer ftpd,95
+Samsung Smart TV UN55H6350,95
+cPanel,95
+ZyXEL ZyWALL sshd,94
+ASUS Wireless Router RT-AC56R,93
+Dahua-based DH-XVR1B04H-I,93
+ARK: Survival Evolved,92
+VMware vCenter Server,91
+ASUS Wireless Router,90
+Dahua Dual-Sensor-IPC-01,90
+Moxa Nport,90
+VxWorks ftpd,89
+"Hyundai Network System, Inc.",88
+Pulse Secure Network Connect 8.3,88
+Samsung Smart TV UN50H6400 UN50H6400,88
+Samsung Smart TV UN50HU7000,88
+Knopflerfish httpd,86
+MS-SQL Server 2019 CU15+,86
+TwistedWeb httpd,86
+Geth,85
+Konica Minolta bizhub printer ftpd,85
+MS-SQL Server 2012 SP3,85
+Samsung Smart TV UN60J6200,85
+TLS,85
+Dahua-based DH-XVR5108HS-I3,83
+MS-SQL Server 2016 SP2,83
+QNAP TS-253 Pro,83
+ASUS Wireless Router GT-AC2900,82
+Contiki httpd,82
+EFM Networks ipTIME N6004R 1,82
+ASUS Wireless Router ZenWiFi AX Mini,81
+ASUS Wireless Router ZenWiFi XD6,81
+HttpFileServer httpd,81
+Splunk Cloud,80
+ASUS Wireless Router GT-AXE11000,79
+ASUS Wireless Router RT-AC3200,79
+ASUS Wireless Router RT-AX58U,79
+EFM Networks ipTIME N1E 1,79
+M208x Series,79
+WebFS httpd,79
+XMail pop3d,79
+3S-Smart Software Solutions,78
+ASUS Wireless Router RT-AC66U,78
+"Brocade Communications Systems, Inc.",77
+MF633C/635C,77
+Sun ONE Web Server,77
+Imunify360 Webshield,75
+MS-SQL Server 2012 SP1+,75
+MS-SQL Server 2014 SP1,75
+WHM,75
+EFM Networks ipTIME N604M 1,74
+Pulse Secure Network Connect 8.1,74
+QNAP TS-431 TS-431,74
+iPlanet web proxy,74
+MS-SQL Server 2005 SP2,73
+PS3 Media Server UPnP,73
+Veritas Backup Exec ndmp,73
+F5 BIG-IP,72
+QNAP TS-212 TS-212,72
+QNAP TS-228,72
+Samsung Smart TV UN55JU6700,72
+ASUS Wireless Router RT-N66R,71
+KaZaA P2P client Peer Point Manager,71
+Dahua DHI-XVR5108HS,70
+Dell Inc.,70
+MS-SQL Server 2016 RTM+,70
+MS-SQL Server 2016 SP1+,70
+Samsung Smart TV UN55H6400 UN55H6400,70
+ASUS Wireless Router RT-AC3100,69
+Ambit Microsystems Corporation,69
+Dahua DH-XVR5116HS-I3,69
+KYOCERA Corporation,69
+MS-SQL Server 2008 R2 SP3,69
+Ralink Linux UPnP IGD Project RT2880 IGD Version 1.00 RT2880 C,69
+Dahua Dual-Sensor-IPC-02,68
+alphapd,68
+Samsung Smart TV UN50JU6400,67
+ASUS Wireless Router RT-AC56U,66
+ASUS Wireless Router RT-AC66R,66
+Samsung Smart TV UN65J6200 UN65J6200,66
+XMail SMTP server,66
+Dahua DH-HCVR4104HS-S2,65
+Dahua DH-HCVR5108H-S2,65
+"Fortinet, Inc.",65
+MS-SQL Server 2008 R2 SP3+,65
+Netgear,65
+QNAP TS-453Be TS-453Be,65
+Samsung Smart TV UN40H5800,65
+QNAP TS-231 TS-231,64
+"TP-Link Technology Co.,Ltd",64
+Dahua DH-XVR5108HS-X,63
+SCS sshd,63
+Samsung Smart TV UN55HU7200,63
+LS Industrial Systems,62
+QNAP TS-269L TS-269L,62
+Samsung Smart TV UN55J6200,62
+HP PageWide Pro 477dw MFP,61
+MS-SQL Server 2014 SP3+,61
+Nucleus ftpd,61
+QNAP TS-228A TS-228A,61
+Samsung Smart TV UN50H5800 UN50H5800,61
+Unknown netbios-ns,61
+Apexis APM-H803-MPC,60
+Metabase,60
+Oracle Application Server 10g httpd,60
+Dahua-based SSJG-HDS2104,59
+MS-SQL Server 2012 SP4+,59
+Dahua DHI-NVR4216-16P-4KS2,58
+Dahua-based ERD-0451HS-4KL-I2,58
+IBM WebSphere Application Server,58
+MS-SQL Server 2012 SP2,58
+Motion Camera httpd,58
+Dahua-based ERN-0841HS-P,57
+Allot Netenforcer OpenSSH,56
+Typesense,56
+AGENT++,55
+ASUS Wireless Router GT-AX6000,55
+QNAP TS-212,55
+QNAP TS-212P TS-212P,55
+QNAP TS-228A,55
+QNAP TS-253 Pro TS-253 Pro,55
+QNAP TS-451+ TS-451+,55
+SL-J3520W Series,55
+"CoreEdge Networks Co., Ltd",54
+Dahua DH-XVR5104HS-4KL-I3,54
+Indy,54
+LiteSpeed httpd,54
+ASUS Wireless Router RT-ACRH13,53
+Dahua-based NVR,53
+Samsung Smart TV UN55H6350 UN55H6350,53
+Access Remote PC smtpd,52
+Gsym,52
+Jooyon HCVR,52
+MS-SQL Server 2016 SP2+,52
+Consul,51
+Dell 1130n printer soap,51
+Fortinet VPN/firewall sshd,51
+IceWarp smtpd,51
+Lantronix,51
+MS-SQL Server 2008 R2 RTM+,51
+MS-SQL Server 2014 SP1+,51
+Rhinosoft Serv-U httpd,51
+Samsung Smart TV UN55JU6400,51
+Samsung Smart TV UN60J6200 UN60J6200,51
+Topfield TF7100HDPVRt DVR ftpd,51
+Dahua IP Camera,50
+EFM Networks ipTIME A3004NS 1,50
+Lego Server,50
+MS-SQL Server 2008 R2 SP1+,50
+RICOH Co. Ltd.,49
+Wind River FTP server,49
+ASUS Wireless Router RT-AX68U,48
+MikroTik http proxy,48
+NETIS WF-2409,48
+SonicWALL SSL-VPN http proxy,48
+"Alteon Networks, Inc.",47
+Dahua DH-NVR4104HS-P-4KS2,47
+Dahua DHI-NVR4108HS-8P-4KS2,47
+EFM Networks ipTIME N5 1,47
+EFM Networks ipTIME N8004R 1,47
+"Fuji Xerox Co., Ltd.",47
+MS-SQL Server 2008 SP4,47
+Samsung Smart TV UN55J5500,47
+ASUS Wireless Router R7000,46
+Check Point SVN foundation httpd,46
+DVSS Herculese DVR http config,46
+Samsung Smart TV UN50J5500,46
+CouchDB,45
+Realtek Semiconductor IGD 1.00,45
+Samsung M332x 382x 402x Series,45
+rblsmtpd wrapped smtpd,45
+Haproxy http proxy,44
+IBM (https://w3.ibm.com/standards),44
+MF620C Series,44
+MS-SQL Server 2014 SP2+,44
+Munin,44
+Samsung Smart TV UN55JU6700 UN55JU6700,44
+vsftpd (before 2.0.8) or WU-FTPD,44
+Oki Data Corporation,43
+Dahua DH-XVR5116H-I3,42
+Juniper Network Connect 8.0 (Pulse Secure),42
+K3250 Series,42
+QNAP TS-269L,42
+Quick 'n Easy ftpd,42
+RiverDelta Networks,42
+Apache ActiveMQ,41
+Dahua DH-XVR1B04H,41
+Samsung Smart TV UN60H6500,41
+D-Link Corporation D-Link DIR-806M Wireless AC Dual Band Router,40
+EFM Networks ipTIME N704NS 1,40
+Oracle HTTP Server Powered by Apache,40
+QNAP TS-231+ TS-231+,40
+Splunk Server,40
+ClickHouse,39
+Enterasys Networks,39
+Werkzeug,39
+Samsung Smart TV UN50HU7000 UN50HU7000,38
+Samsung Smart TV UN55HU8700,38
+Samsung Smart TV UN65HU7200,38
+Ultr@VNC Repeater,38
+vIPtela Inc.,38
+Dahua HRHQ1040L,37
+QNAP TS-451+,37
+Samsung Smart TV UN48J6200,37
+Samsung Smart TV UN55J6300,37
+Dahua DS-2104HS-D1,36
+Dahua-based DHI-XVR5104H,36
+IBM DB2 Database Server,36
+QNAP TS-251+ TS-251+,36
+Samsung Smart TV UN50JU6400 UN50JU6400,36
+smbx,36
+3CX Phone System Management Console,35
+Dahua DH-SD6CE245UN-HNI,35
+Dahua DH-XVR5104HS-I2,35
+MS-SQL Server 2000 SP1+,35
+Microsoft Windows 2003 POP3 Service,35
+Realtek Semiconductor corp.,35
+Samsung Smart TV UN55JS6900,35
+Dahua IP2M-841B,34
+MF645C,34
+ProFTPD or KnFTPD,34
+QNAP TS-231,34
+Samsung Smart TV UN50J5800,34
+Samsung Smart TV UN55HU7200 UN55HU7200,34
+Samsung Smart TV UN65JU6000,34
+Alt-N MDaemon mail server,33
+C-Cor Electronics,33
+Dahua ERD-1651HS-S2,33
+Dahua-based ERD-0451HS-4KL-I3,33
+Dahua-based ERN-0441HS-P,33
+Dahua-based TD-2304-I3,33
+MS-SQL Server 2008 SP3+,33
+MS-SQL Server 2016 SP3+,33
+MS-SQL Server 2022 CTP1.0+,33
+Samsung Smart TV UN48J5500,33
+Wireless-N Router,33
+Dahua DHI-XVR5216AN,32
+Dahua PC-NVR,32
+Dahua-based DHI-NVR4104HS-P-4KS2/L,32
+Dahua-based ERD-1651HS-I3,32
+Dahua-based ERN-0841HS-PL,32
+Epilogue,32
+MDaemon pop3d,32
+Microsoft NNTP Service,32
+Samsung Smart TV UN48J6300,32
+Yahoo Smart TV,32
+CJServer,31
+CORBA naming service,31
+Dahua IP PTZ Camera,31
+EFM Networks ipTIME V308 1,31
+EPSON WF-C5790 Series,31
+GNU Zebra routing software,31
+MS-SQL Server 2012 RTM+,31
+MS-SQL Server 2019 CU8,31
+NetApp filer httpd,31
+Samsung Smart TV UN55J5500 UN55J5500,31
+ioBroker,31
+Dahua DHI-XVR4104HS-S2,30
+Dahua-based KPR-5M04HS-X1,30
+EFM Networks ipTIME N608 1,30
+EFM Networks ipTIME N904NS 1,30
+MS-SQL Server 2000 SP3,30
+MS-SQL Server 2019 CU15,30
+Paramiko Python sshd,30
+Samsung Smart TV UN40H5500,30
+Dahua DH-XVR5104HS-4KL-X,29
+Dahua DH-XVR5108H-4KL-I3,29
+Dahua DHI-NVR2104HS-P-I,29
+Dahua-based DH-XVR5116HS-I3,29
+Dahua-based ERN-1642H-P,29
+Dahua-based TNR-4208P,29
+EFM Networks ipTIME N804 1,29
+Honeywell HEN08103,29
+MS-SQL Server 2012 SP3+,29
+MS-SQL Server 2017 CU28+,29
+Pablo's ftpd,29
+Samsung Smart TV UN48JU6700,29
+Samsung Smart TV UN65HU9000,29
+Samsung Smart TV UN65JS9000,29
+Xlight ftpd,29
+Dahua DH-SD59230UN-HNI,28
+Dahua DHI-NVR608-32-4KS2,28
+QNAP TS-212P,28
+SAProuter,28
+Samsung Smart TV UN55JU7500,28
+Samsung Smart TV UN75J6200,28
+YATE/3.0.0,28
+lpd,28
+ASUS Wireless Router RT-N66U,27
+"Airespace, Inc (formerly 'Black Storm Networks')",27
+D-Link DIR-845L WAP http config,27
+Dahua DHI-XVR5116H,27
+EFM Networks ipTIME N104K 1,27
+EFM Networks ipTIME N704S 1,27
+HP LaserJet Professional M1212nf MFP,27
+Homebridge,27
+MS .NET Remoting httpd,27
+MS-SQL Server 2005 SP4+,27
+QNAP TS-220 TS-220,27
+QNAP TS-253D TS-253D,27
+Samsung C145x Series,27
+Samsung Electronics Samsung X4305 Series 1.0,27
+Samsung Smart TV UN48H5800,27
+iPECS-MG,27
+"Alcatel-Lucent (formerly 'Panthera Networks, Inc.')",26
+Apple AirPlay httpd,26
+Dahua IPC-HFW4231E-SE,26
+Dahua-based DHI-XVR5232AN-I3,26
+EFM Networks ipTIME T3008 1,26
+MoxaHttp,26
+Neowiki Anygate RG-5200A RT2880 C,26
+QNAP TS-231P TS-231P,26
+QNAP TS-469 Pro TS-469 Pro,26
+Samsung Electronics Samsung X4300 Series 1.0,26
+Samsung Smart TV UN43J5500,26
+Samsung Smart TV UN55JU6000,26
+Samsung Smart TV UN60H6500 UN60H6500,26
+Thin,26
+ASUS Wireless Router BLUE_CAVE,25
+ASUS Wireless Router RT-AX56U V2,25
+Dahua DH-XVR4108HS-I,25
+Dahua DH-XVR5108HS-I2,25
+Dahua IPC-HDBW4231E-ASE,25
+Dahua TNR-4208P,25
+Dahua-based TD-HXVR-5104HS-X1,25
+FPBX,25
+Lotus Domino POP3 server,25
+Lotus Domino smtpd,25
+NQ 7.3,25
+OpenFlow,25
+QNAP TS-231P2 TS-231P2,25
+QNAP TS-251,25
+RND,25
+Samsung M337x 387x 407x Series,25
+Samsung Smart TV UN40H6350,25
+Synology DS918+ 6.2-25556,25
+Synology DS920+ 6.2-25556,25
+WSGIServer,25
+ATEN KVM-over-IP VNC,24
+Asterisk PBX 1.6.2.24,24
+DIGITALZONE NC W511SR 2.0.1 W511SR,24
+DVR,24
+Dahua HRHQ1080L,24
+Dahua-based SSJG-HDS2108,24
+EFM Networks ipTIME G104 1,24
+Gaspot,24
+HBase,24
+JAMES smtpd,24
+LBP211/212,24
+MS-SQL Server 2012 SP1,24
+Netscape Enterprise httpd,24
+SAMSUNG X4220RX,24
+Samsung Smart TV UN48H5800 UN48H5800,24
+Samsung Smart TV UN55H6500,24
+Samsung Smart TV UN55J6200 UN55J6200,24
+Synology DS218+ 6.2-25556,24
+WatchGuard Technologies Inc.,24
+Canon NB-EC3 FTP Print Server,23
+"Casa Systems, Inc.",23
+Conan Exiles,23
+Dahua DH-NVR4104,23
+Dahua-based DH-XVR5104HS-4KL-I3,23
+EFM Networks ipTIME N704A 1,23
+M203x Series,23
+MS-SQL Server 2005 SP1,23
+MS-SQL Server 2017 CU23,23
+Mongrel httpd,23
+Pulse Secure Network Connect 8.0,23
+QNAP HS-210 HS-210,23
+QNAP TS-231+,23
+QNAP TS-269 Pro TS-269 Pro,23
+Samsung Smart TV UN55H6800,23
+tnftpd,23
+ASUS Wireless Router RT-AC68A,22
+DASAN Networks H150N EV-2009-02-06,22
+Dahua DH-HCVR4108HS-S2,22
+Dahua DH-NVR4416-16P-4KS2,22
+Dahua DS-5104HS-4KD,22
+Dahua IPC-HFW1230S,22
+Epson printer httpd,22
+M262x 282x Series,22
+MS-SQL Server 2016 SP3,22
+Mumble Server,22
+Raritan KVM,22
+SAMSUNG X4255LX,22
+Samsung Electronics Samsung K4350 Series 1.0,22
+Samsung Smart TV UN40H5800 UN40H5800,22
+Samsung Smart TV UN50J5500 UN50J5500,22
+Samsung Smart TV UN50J5800 UN50J5800,22
+Samsung Smart TV UN55HU9000,22
+Squid ftp proxy,22
+ActiveMQ OpenWire Transport,21
+"Apple Computer, Inc.",21
+Axler router 10000NPLUS,21
+Barracuda Networks Spam Firewall smtpd,21
+Dahua-based KPR-5M08HS-X,21
+Google httpd,21
+HP-UX daytime,21
+Juniper Network Connect 7.1.0 (Pulse Secure),21
+MDaemon smtpd,21
+MS-SQL Server 2019 GDR1,21
+QNAP TS-251 TS-251,21
+QNAP TS-251+,21
+QNAP TS-259 Pro+ TS-259 Pro+,21
+Remedy AR System Server,21
+Samsung SCX-8123 8128 Series,21
+Samsung Smart TV UN55JS9000,21
+Samsung Smart TV UN60JS6900,21
+Dahua DHI-NVR4216-16P-4KS2/L,20
+Dahua-based KISXVR5104HS-X,20
+EFM Networks ipTIME A104NS 1,20
+HP OfficeJet Pro 8730,20
+MS-SQL Server 2008 SP3,20
+QNAP TS-231P,20
+Realtek Semiconductor Corp. RTL8xxx EV-2010-09-20,20
+Samsung Smart TV UN55JU7500 UN55JU7500,20
+Samsung Smart TV UN65JU6000 UN65JU6000,20
+TmaxSoft WebtoB httpd,20
+iR C3125,20
+AJA Video Systems HELO 0x10597500,19
+ASP5K^^^^^,19
+Cisco router daytime,19
+Cisco/3com IPSSHd,19
+Dahua DH-XVR4116HS-X,19
+Dahua-based SDR-1004,19
+EFM Networks ipTIME G504 1,19
+EFM Networks ipTIME N6004 1,19
+HP Color LaserJet M553,19
+Internet Communications Engine,19
+MS .NET Remoting services,19
+Philips Hue Bridge v1 (BSB001),19
+QNAP TS-453D,19
+Samsung Smart TV UN48H6400,19
+ASUS Wireless Router RT-AX89X,18
+D-Link DCS-930LB1 webcam http interface,18
+Dahua DH-XVR5216AN-I3,18
+Dahua IP4M-1051,18
+Dahua-based KVR-D400I,18
+Dovecot Pigeonhole sieve,18
+"EZ-NET Ubiquitous Co., Ltd. NEXT-1105NF 0416",18
+HP LaserJet MFP M130fn,18
+HP PageWide Pro 452dw Printer,18
+Honeywell HEN04103,18
+IPPDS,18
+PATECH Router P104S,18
+QNAP TS-210,18
+QNAP TS-453A TS-453A,18
+QNAP TS-563,18
+Samsung Electronics Samsung X7600 Series 1.0,18
+Samsung Smart TV UN48J6300 UN48J6300,18
+Samsung Smart TV UN55JS6900 UN55JS6900,18
+"Symbol Technologies, Inc.",18
+Synology DS718+ 6.2-25556,18
+Couchbase Server,17
+Dahua DHI-HCVR5104H-S3,17
+Dahua DHI-NVR5432-4KS2,17
+Dahua-based KPR-5M04HS-I3,17
+Dahua-based KVR-5M04HS-X1,17
+"HFR,Inc",17
+M263x_M284x Series,17
+OpenEthereum,17
+Pulse Secure Network Connect 8.2,17
+QNAP TS-220,17
+QNAP TS-469L TS-469L,17
+QNAP TVS-682 TVS-682,17
+SAMSUNG X4225RX,17
+SCX-3400 Series,17
+Salesforce,17
+Samsung Smart TV UN48H6350,17
+Samsung Smart TV UN55JU6400 UN55JU6400,17
+Samsung Smart TV UN65HU7200 UN65HU7200,17
+Tridium Niagara httpd,17
+Varnish HTTP Cache,17
+ASUS Wireless Router RT-AC67P,16
+Adaptec/IBM ServeRAID Management http config,16
+CCProxy http proxy,16
+Canon printer smtp server,16
+Counter-Strike,16
+Dahua NVR4X-4KS2,16
+Dahua-based DHI-NVR4216-16P-4KS2/L,16
+Dahua-based KISXVR5104HS-I3,16
+"Genuine 2.1M Camera (1080p HD, TI365) 2.7.7a",16
+MS-SQL Server 2012 SP2+,16
+Mono-HTTPAPI,16
+Panasonic 3MP webcam http config,16
+QNAP TS-210 TS-210,16
+QNAP TS-231P2,16
+QNAP TS-253Be TS-253Be,16
+QNAP TS-431X2 TS-431X2,16
+QNAP TS-453D TS-453D,16
+Samsung Smart TV UN50H6500,16
+Samsung Smart TV UN50H6500 UN50H6500,16
+Samsung Smart TV UN55HU8700 UN55HU8700,16
+Samsung Smart TV UN55J6300 UN55J6300,16
+Samsung Smart TV UN65HU8700,16
+Samsung Smart TV UN75JU7000,16
+Sun Solaris daytime,16
+Synology DS918+ 6.2-24922,16
+etcd,16
+3Proxy http proxy,15
+C460 Series,15
+D-Link DIR-868L WAP http config,15
+Dahua DH-XVR4116HS-I,15
+Dahua HCVR5204A-S2,15
+Docker,15
+EFM Networks ipTIME N104S 1,15
+Juniper Network Connect 7.4.0 (Pulse Secure),15
+Logitech SqueezeCenter music server,15
+Merak Mail server pop3d,15
+Network Appliance Corporation,15
+PATECH LotteMart Router 104L,15
+QNAP TS-230 TS-230,15
+QNAP TS-253D,15
+QNAP TS-328,15
+QNAP TS-453B TS-453B,15
+SINDOH Printer,15
+SSW_AP_TNS_SA502_0.4.2,15
+Samsung Smart TV UN32J5500,15
+Samsung Smart TV UN40H5500 UN40H5500,15
+Samsung Smart TV UN43J5500 UN43J5500,15
+Samsung Smart TV UN50JS6900,15
+Samsung Smart TV UN60JS6900 UN60JS6900,15
+Samsung Smart TV UN60JU6400,15
+Signify Philips hue bridge 2015 BSB002,15
+Sun Solaris 8 ftpd,15
+SwiFTP,15
+Synology DS215j 6.2-25556,15
+ALFTP,14
+Abyss httpd,14
+C470 Series,14
+Conexant-EmWeb,14
+D-Link Corporation D-Link DIR-550A DIR-550A,14
+Dahua DHI-NVR4104HS-P-4KS2,14
+Dahua DHI-NVR4208-8P-4KS2,14
+Dahua DHI-NVR4208-8P-4KS2/L,14
+Dahua DS-5108HS-4KD,14
+Dahua IP2M-841W,14
+Dahua NVR-P,14
+EFM Networks ipTIME N604A 1,14
+EFM Networks ipTIME T3004 1,14
+"EZ-NET Ubiquitous Co., Ltd. NEXT-2204N 0432",14
+HP Color LaserJet Pro M478f-9f,14
+Hewlett Packard Enterprise iLO 4 in ProLiant DL360p Gen8 2.75,14
+Lantronix X50,14
+MS-SQL Server 2017 CU13,14
+Mathopd httpd,14
+Oracle HTTP Server,14
+PATECH Router P501,14
+QNAP TS-128A TS-128A,14
+QNAP TS-269 Pro,14
+Samsung Smart TV UN48H6900,14
+Samsung Smart TV UN48J5500 UN48J5500,14
+Samsung Smart TV UN65H6500,14
+Samsung Smart TV UN65JS9000 UN65JS9000,14
+Samsung wireless-N Broadband router Wireless-N Router,14
+Schweizerische Bankgesellschaft Zuerich,14
+WatchGuard Firewall http config,14
+ASUS Wireless Router RT-N66W,13
+Axler router 9500NPLUS,13
+Canon printer http config,13
+Control Web Panel (CWP),13
+Cyrus pop3d,13
+Dahua DS-2108HS-D,13
+Dahua HRHQ116*,13
+Dahua VSaaS-DHIC-5231BLS,13
+Dahua-based ERN-0842H-PL,13
+Dahua-based TD-HXVR5108HS-X,13
+Honeywell DVR,13
+InspIRCd,13
+Isilon OneFS,13
+LBP621C,13
+MS-SQL Server 2008 SP4+,13
+MS-SQL Server 2019 CU10,13
+Mac OS X kerberos-sec,13
+Netis Korea WF2470 1.00,13
+PATECH LotteMart Router 502L,13
+Pulse Secure Network Connect 9.0,13
+QNAP TS-251D TS-251D,13
+QNAP TS-412 TS-412,13
+QNAP TS-419P II TS-419P II,13
+QNAP TS-453A,13
+Ricoh maintenance telnetd,13
+Samsung Smart TV UN48H6800,13
+Samsung Smart TV UN48J6200 UN48J6200,13
+Samsung Smart TV UN50HU8500,13
+Samsung Smart TV UN65HU9000 UN65HU9000,13
+Samsung Smart TV UN65JU6700,13
+Synology DS918+ 6.2-25426,13
+VideoLAN Server streaming media,13
+WN httpd,13
+iBoss Cloud,13
+ABYSS httpd,12
+ASUS Wireless Router EA6900,12
+CCProxy smtp proxy,12
+D-Link DCS-930L webcam http interface,12
+Dahua DH-XVR5216A-I2,12
+Dahua DHI-XVR5116HS,12
+Dahua VSaaS-DHIC-4231EV,12
+Dahua-based DHI-NVR4208-8P-4KS2/L,12
+Dahua-based KISXVR5108HS-X,12

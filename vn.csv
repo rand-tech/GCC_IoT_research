@@ -1,0 +1,1002 @@
+Title,Count
+Hikvision IP Camera,342913
+nginx,170990
+Boa HTTPd,143773
+bftpd,93025
+OpenSSH,74951
+PPTP,65264
+AkamaiGHost,49979
+Apache httpd,46600
+KB Vision DVR,37169
+Remote Desktop Protocol,28092
+DrayTek Vigor2925 Series,26512
+Microsoft IIS httpd,25459
+MikroTik bandwidth-test server,25080
+Exim smtpd,22576
+Microsoft RPC Endpoint Mapper,21566
+MikroTik Winbox,18895
+WinRM,17460
+Dahua DVR,17127
+Boa Web Server,16523
+DrayTek Vigor Router,16103
+KB Vision XVR,15847
+MySQL,15766
+KB Vision NVR,13075
+Microsoft HTTPAPI httpd,12676
+ciscoSystems,12649
+uc-httpd,12439
+net-snmp,12239
+DrayTek Vigor2912 Series,12110
+Pure-FTPd,11154
+Postfix smtpd,9114
+D-Link DLS-2750U ftp firmward update,7396
+lighttpd,6928
+MikroTik RouterOS API Service,6299
+Dropbear sshd,5912
+gSOAP soap,5470
+Genome Variation Server,4784
+MikroTik router ftpd,4594
+Thomson Inc.,4516
+Dahua DH-XVR1A04,4499
+ZTE F670Y,4137
+ntpd,3823
+Dahua DH-XVR1A08,3799
+Ralink Windows Media Connect Compatible (Ralink-DMS) 1.0,3566
+OpenResty,3544
+Dahua DH-XVR4116HS-X,3466
+CloudFront httpd,3424
+Dahua DH-XVR5108HS-X,3381
+DrayTek Vigor2926 Series,3310
+Home Assistant,3050
+MikroTik,3027
+Dahua DH-XVR5104HS-X1,2863
+Tengine,2795
+Dahua XVR,2786
+ProFTPD,2781
+Microsoft ftpd,2743
+Avtech AVN801 network camera,2423
+mini_httpd,2355
+DrayTek Vigor 2820 ADSL router ftpd,2293
+VMware ESXi,2292
+VMware Authentication Daemon,2209
+SQL Server Browser Service,2016
+DirectAdmin,1984
+Squid http proxy,1942
+DrayTek Vigor2915 Series,1923
+LiteSpeed httpd,1900
+Kerio Connect Webmail,1871
+PostgreSQL,1863
+Dahua DHI-NVR4108HS-4KS2,1821
+Apache Tomcat/Coyote JSP engine,1789
+Dahua DHI-NVR4216-4KS2,1787
+Dahua DHI-NVR2108HS-4KS2,1764
+VNC,1746
+Imunify360 Webshield,1718
+Dahua DHI-XVR4104C-S2,1707
+BigIP,1666
+ZTE F671Y,1610
+Kerio Connect smtpd,1607
+Dahua NVR,1591
+Dahua DHI-NVR4108HS-4KS2/L,1460
+Dahua DH-XVR1B04-I,1402
+Dahua DH-XVR4116HS-I,1385
+Dahua DHI-NVR4232-4KS2,1297
+DrayTek Vigor2927 Series,1258
+mDNS,1215
+BGP,1201
+cPanel,1187
+Dahua DHI-XVR4104HS-S2,1185
+Cross Web Server,1149
+Dahua DHI-XVR4108C,1135
+MS-SQL Server 2008 R2 RTM,1115
+Dahua DHI-NVR4116HS-4KS2,1106
+KB Vision HCVR,1102
+Kubernetes,1092
+Dahua DH-XVR4108HS-X1,1085
+Dahua DHI-NVR4116HS-4KS2/L,1081
+MongoDB,1072
+Samba,1052
+Dahua DHI-NVR2104HS-4KS2,1047
+FreeBSD ftpd,1036
+Dahua DHI-NVR1108HS-S3/H,1035
+DrayTek Vigor3220 Series,1027
+Cisco IOS http config,1025
+Dahua DH-XVR1B08-I,1016
+Dahua DHI-XVR4104C,1007
+3Proxy http proxy,988
+Dahua DH-XVR5104HS-I3,988
+RealVNC Enterprise,967
+RabbitMQ,957
+Redis key-value store,949
+Alt-N MDaemon mail server,943
+MS-SQL Server 2014 RTM,930
+Dahua DHI-XVR5116HS,903
+"Ruijie Networks Co., Ltd. (formerly 'Start Network Technology Co., Ltd.')",895
+MDaemon pop3d,876
+Apache Tomcat,869
+Dahua DH-XVR5116HS-X,859
+MS-SQL Server 2019 RTM,855
+Dahua DH-XVR5216AN-X,845
+Cisco router telnetd,819
+MailEnable POP3 Server,816
+Dahua DHI-XVR4104HSR,815
+Dahua DHI-NVR4104HS-4KS2,809
+Dahua DH-NVR5232HS-4KS2,798
+Erlang Port Mapper Daemon,790
+MailEnable smptd,785
+Dahua DHI-NVR2108-8P-4KS2,776
+MS-SQL Server 2012 RTM,756
+MySQL X Protocol,753
+OpenWebNet,746
+Dahua DHI-NVR1104HS-S3-DSS,731
+Plex,730
+Prometheus Node Exporter,725
+Microsoft Exchange smtpd,724
+HP iLO,722
+DrayTek Vigor2960 Series,716
+Jetty,714
+WHM,695
+Dahua-based DVR,684
+MS-SQL Server 2017 RTM,684
+IP Camera,666
+Oracle TNS Listener,664
+Mini web server 1.0 ZTE corp 2005,658
+Check Point Firewall,645
+DrayTek Vigor3910 Series,637
+"HUAWEI Technology Co.,Ltd",633
+QNAP,622
+Sophos User Portal,619
+SonicWall,615
+Dahua DH-XVR1B08-I-VN,609
+DrayTek Vigor2952 Series,593
+MQTT,587
+Dahua DH-NVR2108HC-HDS3,572
+MS-SQL Server 2008 R2 SP2,570
+Mosquitto,565
+Dahua DHI-NVR5232-4KS2,561
+Portainer,554
+GoAhead Embedded Web Server,547
+Dahua DHI-XVR4108C-S2,527
+Dahua DH-NVR4116HS-4KS2,519
+Netatalk,512
+Dahua DHI-NVR1104HS-S3/H,509
+Firebird RDBMS,508
+MS-SQL Server 2016 RTM,497
+Dahua DH-XVR5108HS-I3,493
+Tinyproxy,479
+Dahua HCVR,469
+Dahua IP Camera,467
+micro_httpd,463
+Dahua DHI-NVR4232-4KS2/L,458
+Dahua DH-NVR4108HS-4KS2,444
+rsyncd,444
+Wowza Streaming Engine,438
+DrayTek Vigor2133 Series,437
+Dahua DH/HCVR4104HS-V4/-AF-DVR-II-A/4-1,435
+Dahua DHI-XVR4104HS,434
+MDaemon smtpd,433
+GoAhead-Webs httpd,423
+"Juniper Networks, Inc.",405
+Dahua DHI-XVR5108HS,404
+Dahua DHI-XVR4108HS,400
+Dahua DHI-XVR5104HS-S2,400
+Dahua DHI-NVR5232HS-4KS2,398
+MS-SQL Server 2014 SP1,395
+Node.js,389
+Dahua DH-HCVR5108HS-S3,387
+Dahua DH-XVR4108C-X1,376
+Dahua DHI-XVR4116HS-S2,370
+Dahua DHI-XVR5104HS,368
+Dahua DH/HCVR5108HS-V4/-AF-DVR-II-A/8-1,367
+Nextcloud,365
+Dahua DHI-XVR4116HS,356
+Dahua DHI-XVR4108HS-S2,355
+Linksys wireless-G WAP http config,355
+Dahua DHI-XVR5108HS-S2,346
+Dahua DHI-NVR2108HS-4KS3,345
+Dahua DHI-NVR2116HS-4KS2,341
+Microsoft RPC Endpoint Mapper over HTTP,331
+Dahua S3-04-P,330
+Outlook Web App,328
+Kerio Connect webmail httpd,320
+kngx,320
+SonicWALL firewall http config,319
+Control Web Panel (CWP),313
+Dahua NVR4X-4KS2,311
+Dahua DHI-NVR4216-4KS2/L,305
+Dahua DH/HCVR5108HS-V5/-AF-DVR-II-A/8-1,302
+Linksys WRT45G modified dropbear sshd,298
+Aruba Instant,292
+Dahua DH-XVR4104C-X1,292
+Kerio Connect nntpd,289
+MS-SQL Server 2016 SP2,286
+iKuai,286
+Dahua IPC-HFW1225M-I2,279
+Dahua-based CJ-HDR108B,277
+DrayTek Vigor 2820n ADSL router sshd,277
+Dahua DHI-NVR5216-4KS2,263
+Connectra Check Point Web Security httpd,260
+Dahua DHI-NVR4104HS-4KS2/L,259
+Elastic,251
+GitLab Self-Managed,251
+Memcached,246
+Dahua DHI-HCVR4104C-S3,242
+DrayTek Vigor2860 Series,240
+ASUS AiCloud,233
+IceWarp smtpd,231
+Windows 2003 Kerberos,230
+"U.C. Davis, ECE Dept. Tom",227
+Grafana (Open Source),224
+FPBX,222
+Dahua DH-XVR4104HS-X1,220
+Socks4A,218
+Dahua DHI-HCVR4104HS-S3,216
+Lotus Domino httpd,216
+Sophos SSL VPN User Portal,215
+Dahua DHI-HCVR5108HS-S3,214
+Minecraft,213
+Kestrel,210
+Dahua TF1P,207
+thttpd,207
+Microsoft RPC,205
+MikroTik http proxy,199
+ASUS Wireless Router RT-AC1300UHP,198
+MS-SQL Server 2019 GDR1+,197
+Chromecast,196
+Dahua DH/HCVR5104HS-V5/-AF-DVR-II-A/4-1,195
+MiniServ,195
+Dahua DH-NVR5232HS-4KS3,193
+Dahua DHI-HCVR5104HS-S3,193
+OpenVPN Access Server CWS,193
+ZTE web server 1.0 ZTE corp 2015,190
+Kong Gateway,188
+Dahua DHI-HCVR4108HS-S3,187
+Dahua DHI-XVR5116HS-S2,186
+Dahua DHI-NVR5832-4KS2,182
+MS-SQL Server 2008 R2 SP1,182
+Dahua DH-NVR2108HS-4KS2,180
+Werkzeug httpd,177
+MS-SQL Server 2017 RTM+,176
+Dahua-based XVR,175
+Serv-U ftpd,175
+Dahua IPC-HFW1225M-I1,174
+Indy httpd,174
+TFTP,173
+3CX Phone System Management Console,171
+Dahua DHI-XVR5108HS-4KL,171
+Dahua IPC-C15,171
+ASUS Wireless Router RT-AX55,170
+DD-WRT milli_httpd,166
+Dahua DHI-NVR5432-4KS2,165
+Jenkins,164
+MS-SQL Server 2012 SP3,164
+Dahua DHI-XVR5104HSR,162
+MS-SQL Server 2008 RTM,160
+Dahua DH-NVR5232-4KS2,153
+Dahua IPC-HFW1220M-S,149
+Microsoft Windows RPC over HTTP,145
+Broadcom Corporation,141
+Check Point SVN foundation httpd,140
+CUPS (IPP),139
+Webmin,138
+Dahua DH/HCVR5104HS-V4/-AF-DVR-II-A/4-1,137
+Dahua DH-XVR5108HS-4KL-X,136
+Dahua K-NL416K,134
+Dahua DHI-NVR5464-4KS2,133
+MS-SQL Server 2014 RTM+,133
+Dahua DHI-HCVR4108C-S3,132
+InfluxDB,131
+Famatech Radmin,128
+MS-SQL Server 2012 SP2,128
+RealVNC,128
+Dahua DHI-HCVR4116HS-S3,127
+Cisco catalyst switch telnetd,124
+Kafka,122
+Compaq,121
+Dahua DH-XVR5104C-X1,120
+Haproxy http proxy,119
+Dahua-based NVR,117
+Dahua DH/HCVR5116HS-V5/-AF-DVR-II-A/16-1,116
+MS-SQL Server 2005 SP4,116
+Virata-EmWeb,116
+Dahua DH-XVR5232AN-X,113
+Dahua IPC-C35,113
+MS-SQL Server 2014 SP1+,113
+H3C,111
+SNMP Research,110
+MS-SQL Server 2014 SP2,108
+Dahua-based DHI-NVR2116HS-S3,107
+MS-SQL Server 2012 SP1+,107
+MS-SQL Server 2016 SP1,107
+Dahua DHI-HCVR5116HS-S3,104
+MS-SQL Server 2019 CU15+,103
+RunCloud Nginx,102
+"Symbol Technologies, Inc.",102
+Asterisk,101
+Dahua DH-NVR4104HS-4KS2,100
+TP-LINK WR841N WAP http config,100
+Barracuda Networks Spam Firewall smtpd,99
+"Fortinet, Inc.",96
+Dahua DHI-NVR4208-4KS2/L,95
+MS-SQL Server 2005 RTM,95
+WildFly,95
+Dahua DH-NVR2104HS-HDS3,94
+Dahua DH/HCVR5116HS-V4/-AF-DVR-II-A/16-1,94
+Dahua DHI-XVR5116H-4KL,94
+"Zhejiang Uniview Technologies Co.,Ltd. | UNV IP camera / NVR – DVR",93
+Dahua-based DHI-NVR5232-4KS2,91
+Dahua IPC-HFW1230M-S-I2,88
+TRENDnet IP Camera,88
+Dahua DH-NVR4116HS-4KS3,87
+Dahua DHI-NVR404S-K2,87
+Dahua DHI-NVR5208-4KS2,85
+mt-daapd DAAP,85
+Dahua DH-NVR2108HS-HDS3,84
+Dahua DH-XVR4232AN-X,84
+ASUS Wireless Router TUF-AX3000,81
+Dahua DHI-NVR5864-4KS2,81
+Dahua DHI-XVR5104C-4M,81
+GNU Inetutils FTPd,81
+Steam Dedicated Server,81
+ASUS Wireless Router RT-AC86U,80
+DrayTek Corporation,80
+Microsoft IIS,80
+VMware vCenter Server,80
+Dahua DH-NVR4116-4KS2,79
+Dahua DHI-NVR1108HS-S3-DSS,79
+MIT Kerberos,79
+Microsoft Exchange imapd,79
+Cyrus pop3d,78
+MS-SQL Server 2022 CTP1.0+,77
+Aruba Networks Inc,76
+Dahua DH-XVR5104H-4KL-X,76
+"SonicWALL, Inc.",76
+MS-SQL Server 2016 RTM+,75
+PRAVIS,74
+TightVNC Java Viewer,74
+Dahua TS1-P,73
+UltiDev Cassini httpd,73
+Dahua DHI-XVR4232AN-S2,72
+Dahua Storm (IP Camera),72
+Veritas Backup Exec ndmp,72
+iperf3,71
+DIN-AP,70
+Dahua DH-NVR4108HS-4KS3,70
+ASUS Wireless Router RT-AC5300,69
+MS-SQL Server,68
+MS-SQL Server 2014 SP3,68
+TLS,68
+ASUS Wireless Router RT-AX56U,67
+Dahua DH-XVR4104C-X,67
+Dahua DH-XVR5116H-4KL-X,67
+Dahua DHI-XVR5216AN-4KL,67
+HP Integrated Lights-Out mpSSH,67
+MS-SQL Server 2000 SP4,67
+Tornado Web Server,67
+Dovecot imapd,66
+Apple remote desktop vnc,64
+Dahua DH-XVR4108C-X,64
+Asterisk Call Manager,63
+Cisco router tftpd,63
+DVR,63
+Dahua DHI-XVR5104H-4M,63
+Rhinosoft Serv-U httpd,63
+Dahua DH-NVR4232-4KS2,62
+Dahua DHI-NVR4208-4KS2,62
+Lego Server,62
+MS-SQL Server 2005 SP2,62
+BENCO XVR,61
+Dahua DH-XVR5104HS-X,61
+Dahua K-NL404K,61
+Dahua DH-NVR2116HS-HDS3,60
+MS-SQL Server 2014 SP3+,58
+Echo,57
+Gene6 ftpd,57
+MS-SQL Server 2012 RTM+,57
+Dahua-based DHI-NVR2108HS-S3,56
+Dahua DHI-NVR5416-4KS2,55
+Dahua TD1P,55
+Dahua DH-XVR5116HS-I3,54
+Dahua DHI-XVR5232AN-S2,54
+OpenVPN Access Server,54
+Dahua DHI-NVR4116HS-4KS2.,53
+ASUS Wireless Router RT-AC1500UHP,52
+ClickHouse,52
+Dahua-based Network recorder,52
+The FreeBSD Project,51
+openHAB,51
+ASUS Wireless Router RT-AC68U,50
+Cisco PIX sanitized smtpd,50
+ASUS Wireless Router GT-AC5300,49
+Dahua DHI-HCVR7116H-4M,49
+Indy,49
+TP-LINK WR740N WAP http config,49
+TwonkyMedia UPnP,49
+Xiaomi IoT,49
+AirPlay,48
+vsftpd,48
+ASUS Wireless Router RT-AX58U,46
+Dahua DH-XVR5104C-4KL-X,46
+Dahua DH-XVR5104HS-X ,46
+Docker Registry HTTP API,46
+oftpd,46
+Dahua DH-XVR5108HS-X ,45
+Dahua DHI-NVR2108HC,45
+Dahua DHI-XVR5216AN,45
+Dahua IPC-HFW1220M-AS,45
+Dahua PC-NVR-V3.0,45
+Dahua-based DH-XVR5116HS-I3,45
+TP-LINK WR741ND WAP http config,45
+Dahua DH-IPC-HFW1220MP-S-I2-0600B,44
+Dahua DH-NVR5216HS-4KS2,44
+Tableau Server,44
+Windows qotd,44
+ZTE H196A V9,44
+Dahua DH-XVR5104C-X,43
+Dahua DHI-NVR5832-R-4KS2,43
+FortiGate Endpoint Control httpd,43
+Microsoft Windows USA daytime,43
+MLDonkey multi-network P2P server,42
+Spotify Connect,42
+ASUS Wireless Router RT-AX82U,41
+Dahua DH-NVR2108HC-4KS2,41
+Dahua DH-NVR4108-4KS2,41
+Sendmail,41
+Dahua DH-XVR1B04-I-VN,40
+Dahua DHI-HCVR7104H-4M,40
+Dahua DHI-NVR4108HS-4KS2.,40
+Dahua DH-NVR2104HS-4KS2,39
+Dahua K-NL408K,39
+MS-SQL Server 2012 SP4,39
+Apple AirPlay httpd,38
+Dahua DHI-HCVR7108H-4M,38
+Dahua IPC-K15,38
+MS .NET Remoting services,38
+MS-SQL Server 2008 R2 SP2+,38
+Dahua XVR5108HS-X,37
+MS-SQL Server 2016 SP2+,37
+Remedy AR System Server,37
+ASUS Wireless Router RT-AX1800HP,36
+Dahua NVR4116HS-4KS2,36
+MS-SQL Server 2008 R2 RTM+,36
+Mbedthis Appweb,36
+VMware Workstation,36
+GoAhead-Webs embedded httpd,35
+SAProuter,35
+Cisco SSH,34
+Dahua DH-NVR4208-HDS2,34
+EdgePrism,34
+Grafana (Enterprise),34
+MS-SQL Server 2005 SP3,34
+RealVNC Personal,34
+Subversion,34
+Tuya,34
+ASUS Wireless Router GT-AX11000,33
+ASUS Wireless Router RT-AX88U,33
+Dahua-based HCVR,33
+etcd,33
+Dahua DHI-NVR1108HS-S3/H-VN,32
+Dahua NVR1B08HS,32
+Dahua TI810X|0,32
+Dahua XVR404C,32
+LG webOS TV,32
+MS-SQL Server 2008 R2 SP3,32
+Consul,31
+Dahua DHI-XVR4108CR,31
+Dahua-based DH-XVR1A04,31
+Dahua-based DH-XVR1A08,31
+Dahua-based DH-XVR5232AN-I3,31
+Dahua-based S3-04-P,31
+HttpFileServer httpd,31
+Hydra,31
+Alt-N MDaemon imapd,30
+Dahua IPC-HFW1120S-W,30
+MS-SQL Server 2008 R2 SP1+,30
+Vtun Virtual Tunnel,30
+WeOnlyDo sshd,30
+Zscaler Cloud Services,30
+CherryPy httpd,29
+Dahua DH-IPC-HFW1220SP,29
+Dahua DH-NVR2116HS-4KS2,29
+MS-SQL Server 2017 CU28+,29
+ZTE F6600,29
+ASUS Wireless Router RT-AC58U,28
+ASUS Wireless Router RT-AX3000,28
+ClamAV,28
+Dahua IPC-HDW1225C,28
+Dahua-based DHI-NVR4116HS-4KS2/L,28
+Java Message Service,28
+World Client WDaemon httpd,28
+ASUS Wireless Router RT-AC53,27
+Dahua DHI-NVR4108HS-4KS2/L-VN,27
+Dahua DHI-XVR5216AN-S2,27
+Dahua-based DH-XVR5108HS-I3,27
+RiverDelta Networks,27
+rdate,27
+Dahua DH-NVR5864HS-4KS2,26
+Dahua DHI-NVR4116-4KS2,26
+Istio Service Mesh,26
+Microsoft ESMTP,26
+Apache ActiveMQ,25
+Dahua NVR-5232-4KS2,25
+Dahua-based DH-NVR4116HS-4KS2,25
+Domoticz,25
+alphapd,25
+uhttpd Web Server,25
+Dahua DH-NVR4116-4KS3,24
+Dahua XVR404C-X1,24
+Dahua XVR408C,24
+Dahua-based DH-XVR5108HS-X,24
+IPPBX,24
+Realtek Semiconductor Corp. RTL8671 EV-2010-09-20,24
+WEBrick httpd,24
+ASUS Wireless Router GT-AC2900,23
+Allegro RomPager,23
+Dahua DH-NVR4108HS-4KS2/N,23
+Dahua DH-NVR4232HS-4KS2,23
+Dahua DHI-NVR421,23
+Dahua IPC-HFW1230M-AS-I2,23
+MS-SQL Server 2014 SP2+,23
+MS-SQL Server 2016 SP3+,23
+Tasmota,23
+ASUS Wireless Router TUF-AX5400,22
+Access Remote PC smtpd,22
+CloudFlare,22
+CloudPBX Southtelecom,22
+Dahua DHI-HCVR5216AN-S3,22
+Dahua DHI-XVR4104CR,22
+Heimdal Kerberos,22
+MS-SQL Server 2012 SP4+,22
+Netflix,22
+Oracle WebLogic Server,22
+Oracle iPlanet Web Server,22
+BaseHTTPServer,21
+Dahua DH-NVR4108-4KS3,21
+Dahua DH-XVR5108H-4KL-X,21
+Dahua DH-XVR5216AN-4KL-X,21
+Dahua IPC-HFW2235M-I1,21
+Dahua NVR5232-4KS2,21
+Dahua-based DH-XVR4116HS-I,21
+MS-SQL Server 2016 SP1+,21
+Metabase,21
+"NetScreen Technologies, Inc.",21
+Oracle XML DB Enterprise Edition httpd,21
+ASUS Wireless Router RT-AC88U,20
+Alcatel-Lucent Enterprise (previous was 'Alcatel'),20
+Dahua DH-NVR4116HS-4KS2/N,20
+Dahua DH-NVR4216,20
+Dahua DH-NVR4216-HDS2,20
+Dahua DH-NVR4232-HDS2,20
+Dahua DH-XVR5216AN-I3,20
+Dahua DHI-NVR4108HD-S3,20
+Dahua-based DH-NVR4108HS-4KS2,20
+Dahua-based DHI-NVR1108HS-S3/H,20
+Dell Inc.,20
+MS-SQL Server 2012 SP1,20
+StatsD,20
+TP-LINK WR941ND WAP http config,20
+smbx,20
+ASUS Wireless Router BRT-AC828,19
+ASUS Wireless Router RT-AX86U,19
+Dahua DH-IPC-C35P,19
+Dahua DH-NVR4108HS-HD,19
+Dahua DH-NVR4216-16P-HDS2,19
+Dahua DHI-NVR5816-4KS2,19
+Dahua IPC-HDBW1320E-W,19
+Dahua NVR-4116-4KS2,19
+Dahua VTO2000A,19
+Dahua-based DHI-NVR5216-4KS2,19
+Ethereum Discovery Protocol,19
+Lorex DVR,19
+MS-SQL Server 2008 R2 SP3+,19
+WatchGuard Technologies Inc.,19
+ASUS Wireless Router RT-N12HP_B1,18
+Dahua DH-NVR2108HS-S3,18
+Dahua DHI-NVR5216HS-4KS2,18
+Dahua DHI-XVR5108HSR,18
+Geth,18
+MS-SQL Server 2012 SP2+,18
+SimpleHTTPServer,18
+ASUS Wireless Router RT-AC1200 V2,17
+Dahua DH-XVR5108HS-4KL-I3,17
+Dahua DHI-NVR2104-P-4KS2,17
+Dahua IPC-HFW1235M-I2,17
+Junoscript XML Interface,17
+Netwave IP camera http config,17
+ALT-N SecurityGateway smtpd,16
+Agranat-EmWeb,16
+Axigen smtpd,16
+Dahua DH-XVR7108HE-4KL-X,16
+Dahua DHI-NVR210,16
+Dahua NVR4108HS-4KS2,16
+Dahua Network recorder,16
+Dahua-based DH-XVR5104HS-X1,16
+Dahua-based DH-XVR5108HS-X ,16
+Dahua-based DHI-NVR5464-4KS2,16
+Fortinet VPN/firewall sshd,16
+GeoVision GeoHttpServer for webcams,16
+MS-SQL Server 2019 CU15,16
+Wowza Media Server,16
+ASUS Wireless Router RT-AX53U,15
+Brother HL-L2360D series:84U-F75:Ver.b.26,15
+Dahua 854,15
+Dahua DH-IPC-DW46C,15
+Dahua DH-NVR2108HS-S2.,15
+Dahua IPC-HFW1320S-W,15
+Dahua IPC-HFW2235M-I2-V2,15
+Dahua NVR3108DS-4K,15
+Dahua XVR504C-X1,15
+Dahua-based DH-NVR4116HS-4KS3,15
+Dahua-based NVR1108HS-W-S2,15
+FreeProxy http proxy,15
+Hewlett-Packard,15
+NATS,15
+NetScreen sshd,15
+vIPtela Inc.,15
+ASUS Wireless Router,14
+Apache Jserv,14
+Dahua DH-NVR2104HS-HDS2,14
+Dahua DH-NVR2108HS-8P-HDS3,14
+Dahua DH/HCVR5108HS-V4-5S/-AF-DVR-II-A/8-1,14
+Dahua DHI-NVR410,14
+Dahua IPC-HDBW1230E-S,14
+Dahua NVR2016HS-4KS2,14
+Dahua Panasonic WV-SPW631LT,14
+Dahua-based DHI-NVR4108HS-4KS2/L,14
+Dahua-based DHI-NVR4232-4KS2,14
+Dahua-based DHI-XVR4104C-S2,14
+Dahua-based DHI-XVR4108C,14
+Dahua-based MD-4D08H1,14
+EZ-IP NVR1B04HC-4P/E,14
+EZ-IP NVR1B08HS,14
+EZproxy web proxy,14
+Ganglia XML Grid monitor,14
+MS-SQL Server 2019 CU14,14
+OneAccess,14
+Sun ONE Web Server,14
+TwistedWeb httpd,14
+Yeastar S100-30.15.0.115,14
+ASUS Wireless Router RT-AC66U,13
+Apple AirPort,13
+Dahua DH-IPC-HFW1220MP-S-I2,13
+Dahua DH-IPC-HFW1320SP-W,13
+Dahua DH-NVR4104-4KS2,13
+Dahua DH-NVR4216-4KS2,13
+Dahua DHI-NVR3104HS-4KS2,13
+Dahua DHI-XVR5108HS-X,13
+Dahua NVR1B04HC-4P/E,13
+Dahua-based DH-XVR1B08-I,13
+Dahua-based DH-XVR5104HS-I3,13
+Dahua-based DH-XVR5116HS-X,13
+Dahua-based DHI-NVR1108HS-W-S2-FCC,13
+Dahua-based DHI-NVR2104HS-S3,13
+Debut embedded httpd,13
+GPRS Tunneling Protocol,13
+Grandstream UCM6202V1.5A 1.0.16.20,13
+Gunicorn,13
+NoMachine NX Server remote desktop,13
+OpenFlow,13
+Synology DiskStation NAS ftpd,13
+ZyXEL ZyWALL sshd,13
+nPerf,13
+ASUS Wireless Router ZenWiFi AX,12
+ASUS Wireless Router ZenWiFi AX Mini,12
+AWS ELB,12
+CouchDB,12
+Dahua DHI-XVR4104C,12
+Dahua DH-XVR4104C-I,12
+Dahua DH-XVR5108HS-4KL-I2,12
+Dahua DHI-XVR4116HS-X,12
+Dahua DHI-XVR5108HS-X.,12
+Dahua DHI-XVR5432L,12
+Dahua IPC-HFW1220S,12
+Dahua IPC-HFW2433M-I2,12
+Dahua IPC-HFW4231D-AS,12
+Dahua LocalHost,12
+Dahua NVR-8CH-1080P,12
+Dahua XVR5104HS-X,12
+Dahua-based DH-NVR2108HC-4KS2,12
+Dahua-based DH-XVR4108C-I,12
+Dahua-based DHI-XVR4104C,12
+Microsoft Exchange 2010 smtpd,12
+MyPBX,12
+Pulse Secure,12
+Ubiquiti AirRouter,12
+ASUS Wireless Router RT-AC3100,11
+Asterisk PBX,11
+Brother HL-L2360D series:84U-F75:Ver.1.32,11
+Dahua DH-NVR2108HS-HDS2,11
+Dahua DH-NVR4108HS-8P-HDS2,11
+Dahua DH-SD6C82FB-GN,11
+Dahua DH-XVR4108C-I,11
+Dahua DHI-NVR5864HS-4KS2,11
+Dahua DHI-XVR4104HS ,11
+Dahua DHI-XVR4232AN,11
+Dahua NVR3116DS-4K,11
+Dahua TF1T,11
+Dahua-based DH-XVR4116HS-X,11
+Dahua-based DHI-NVR4108HS-4KS2,11
+Dovecot pop3d,11
+IBM HTTP Server,11
+IPBX-2.11.0(16.7.0),11
+Mitsubishi Q PLC,11
+Oracle Application Server 10g httpd,11
+Sony BRAVIA KDL-43W800C,11
+Swift,11
+ZetAdmin PBX,11
+Dahua DH-NVR2104HC-4KS2,10
+Dahua DH-NVR2104HS-4KS3,10
+Dahua DH-XVR5104H-4KL-I2,10
+Dahua DH-XVR7116HE-4KL-X,10
+Dahua DHI-XVR7104H-4M,10
+Dahua IPC-HDW4436C-A-V2,10
+Dahua IPC-HFW8231EP-Z,10
+Dahua IPC-K35,10
+Dahua MD-4D16H1,10
+Dahua NVR1B08HS-8P,10
+Dahua-based DHI-NVR2108HS-4KS2,10
+Dahua-based NVR1104HS-W-S2,10
+ESET NOD32 anti-virus smtp proxy,10
+Grandstream UCM6301V1.2C 1.0.2.23,10
+Xlight ftpd,10
+Yeastar S20-30.15.0.115,10
+Yeastar S50-30.14.0.127,10
+ASUS Wireless Router RT-AX92U,9
+Dahua DH-NVR3108HS-4KS2,9
+Dahua DH-NVR4116HS-4kS2,9
+Dahua DH-NVR4216-4K,9
+Dahua DHI-HCVR4232AN-S3,9
+Dahua DHI-XVR5116H,9
+Dahua IPC-HFW4431D-AS,9
+Dahua NVR-4108-4KS2,9
+Dahua NVR2B16,9
+Dahua NVR6232-4KVM2,9
+Dahua TF5,9
+Dahua XVR5108HS-4KL-X1,9
+Dahua-based DH-XVR1B04-I,9
+Dahua-based DH/HCVR4104HS-V4/-AF-DVR-II-A/4-1,9
+Dahua-based DH/HCVR5116HS-V4/-AF-DVR-II-A/16-1,9
+Dahua-based DHI-NVR4116HS-4KS2,9
+Dahua-based DHI-NVR4216-4KS2,9
+Dahua-based DHI-NVR5832-4KS2,9
+Dahua-based DHI-XVR5116HS,9
+Dahua-based NVR1B04HC/E,9
+ER-X,9
+FileZilla ftpd,9
+Hewlett Packard Enterprise iLO 4 in ProLiant DL380 Gen9 2.77,9
+Honeywell HEN322*4,9
+IPBX-2.11.0(11.25.3),9
+IPBX-2.11.0(16.16.1),9
+Juniper Network Connect 8.0 (Pulse Secure),9
+TeamViewer,9
+WebRTC,9
+Yeastar S50-30.15.0.102,9
+vsftpd (before 2.0.8) or WU-FTPD,9
+xinetd chargen,9
+ASUS Wireless Router RT-N12+,8
+ASUS Wireless Router RT-N14UHP,8
+"Beijing Raisecom Scientific & Technology Development Co., Ltd.",8
+CP Plus DVR,8
+Cerberus FTP Server,8
+Dahua DH-IPC-C15P,8
+Dahua DH-NVR-4116-4KS2,8
+Dahua DH-NVR2018HC-4KS2,8
+Dahua DH-NVR4108HS-4kS2,8
+Dahua DH-NVR4216HS-4KS2,8
+Dahua DH-NVR5216-4KS2,8
+Dahua DH-XVR5104HS-4KL-X,8
+Dahua DH-XVR5116HS-X ,8
+Dahua DHI-NVR4204-P-4KS2,8
+Dahua DHI-NVR4232HS-4KS2,8
+Dahua DHI-NVR5864-R-4KS2,8
+Dahua DHI-XVR404C-S2,8
+Dahua NVR208HS-4KS2,8
+Dahua NVR4108HS-4K,8
+Dahua NVR4116-4KS2,8
+Dahua-based DHI-NVR5208-4KS2,8
+Dahua-based DHI-NVR5864-4KS2,8
+Extreme Networks,8
+Hewlett Packard Enterprise iLO 4 in ProLiant BL460c Gen8 2.79,8
+MS-SQL Server 2000 SP3a,8
+MS-SQL Server 2012 SP3+,8
+Pulse Secure Network Connect 8.3,8
+RICOH Co. Ltd.,8
+Ralink router 1,8
+SolarWinds Free tftpd,8
+Unrecognized SMTP service,8
+Yeastar S20-30.11.0.8,8
+Yeastar S20-30.14.0.127,8
+ZK Web Server,8
+ASUS Wireless Router RT-AC59U V2,7
+ASUS Wireless Router RT-AX56U V2,7
+ASUS Wireless Router RT-N18U,7
+ActiveMQ OpenWire Transport,7
+Blue Server,7
+Counter-Strike: Global Offensive,7
+D-Link DCS-5010L webcam http interface,7
+D-Link DCS-5020L webcam http interface,7
+Dahua DH-NVR2108HC-8P-4KS2,7
+Dahua DH-NVR2116HS-HDS2,7
+Dahua DH-NVR3108HS-S2,7
+Dahua DH-NVR4116HS-HD,7
+Dahua DH-NVR4216-16P-HDS2/L,7
+Dahua DH-NVR608-32-4KS2,7
+Dahua DH-NVR808-32-HDS2,7
+Dahua DH-XVR5108HS-X_HAVIET,7
+Dahua DH-XVR5116H-4KL-I2,7
+Dahua DH-XVR5116HS-I2,7
+Dahua DH-XVR5216AN-I2,7
+Dahua DH/HCVR7104HS-V4/-AF-DVR-II-A/4-1,7
+Dahua DHI-NVR2108-I,7
+Dahua DHI-NVR2108HS-I,7
+Dahua DHI-NVR4216HS-4KS2,7
+Dahua DHI-NVR608-32-4KS2,7
+Dahua DHI-XVR5104HS-X,7
+Dahua IPC-HDBW5431E-Z,7
+Dahua IPC-HFW4433F-ZSA,7
+Dahua MD-5D08H1,7
+Dahua-based DH-NVR4108HS-4KS3,7
+Dahua-based DH-XVR4108HS-X1,7
+Dahua-based DH-XVR5104HS-X ,7
+Dahua-based DH/HCVR5108HS-V4/-AF-DVR-II-A/8-1,7
+Dahua-based DH/HCVR5108HS-V5/-AF-DVR-II-A/8-1,7
+Dahua-based DHI-NVR4104HS-4KS2,7
+Dahua-based DHI-NVR4216-4KS2/L,7
+Dahua-based DHI-XVR4104HSR,7
+EZ-IP NVR2B16,7
+Hewlett Packard Enterprise iLO 4 in ProLiant DL360 Gen9 2.78,7
+Hewlett Packard Enterprise iLO 4 in ProLiant DL360 Gen9 2.81,7
+MS-SQL Server 2019 CU11,7
+MS-SQL Server 2019 GDR1,7
+OpenEthereum,7
+Oracle GlassFish,7
+Pulse Secure Network Connect 8.1,7
+Pulse Secure Network Connect 9.1,7
+QNAP TS-431P TS-431P,7
+RaidenMAILD smtpd,7
+WorldfonePBX,7
+Yeastar S100-30.15.0.102,7
+Yeastar S20-65.16.0.25,7
+ASUS Wireless Router Lyra Trio,6
+Android Debug Bridge,6
+Brother MFC-L2700DW series:8C5-H48:Ver.1,6
+CP Plus CP-UNR-4K2161-V2,6
+CP Plus CP-UNR-4K4324-V2,6
+ChipPC Extreme httpd,6
+D-Link DCS-936L,6
+Dahua DAS-NVR9104-HS-4KS2,6
+Dahua DH-IPC-FW46M,6
+Dahua DH-IPC-HDW6282C,6
+Dahua DH-IPC-HFW1120SP-W,6
+Dahua DH-IPC-HFW1430SP,6
+Dahua DH-NVR-4104-KS3,6
+Dahua DH-NVR-4116-KS3,6
+Dahua DH-NVR2108HS-8P-4KS2,6
+Dahua DH-NVR4104-4KS3,6
+Dahua DH-NVR4104HS-4KS3,6
+Dahua DH-NVR5216HS-4KS3,6
+Dahua DH-SD49225T-HN,6
+Dahua DH-XVR5104H-4KL-I3,6
+Dahua DH/HCVR4104HS-V3/-AF-DVR-II-A/4-1,6
+Dahua DHI-HCVR4108C-S2,6
+Dahua DHI-HCVR4108HS-S2,6
+Dahua DHI-NVR4232-4KS2-JT,6
+Dahua DHI-XVR5108-4KL,6
+Dahua IPC-HFW1320S,6
+Dahua IPC-HFW2225B,6
+Dahua IPC-HFW2235M-I2,6
+Dahua IPC-HFW4433M-I1,6
+Dahua IPC-HFW4436M-I2-V2,6
+Dahua K-NL308K/G,6
+Dahua NV4108E-HS,6
+Dahua NVR-4116-4KS3,6
+Dahua NVR1B08/L,6
+Dahua PTZCamera,6
+Dahua SD,6
+Dahua TF3,6
+Dahua TFIP,6
+Dahua TP7,6
+Dahua XVR5232HS-4KS2,6
+Dahua-based CJ-HDR216B,6
+Dahua-based DH-NVR2104HC-4KS2,6
+Dahua-based DHI-NVR4104HS-4KS2/L,6
+Dahua-based DHI-NVR4108HS-4KS2.,6
+Dahua-based DHI-XVR5104HS,6
+Dahua-based DHI-XVR5108HS,6
+Dahua-based MD-4D04H1,6
+Dahua-based NVR1B04HC-4P/E,6
+Dovecot Pigeonhole sieve,6
+EZ-IP NVR1B08/L,6
+Epilogue,6
+Glastopf honeypot,6
+Grandstream UCM6204V1.5A 1.0.16.20,6
+IBM DB2 Database Server,6
+IMail NT-ESMTP,6
+IPBX-2.11.0(13.30.0),6
+Knopflerfish httpd,6
+Lorex LNR616X,6
+MS-SQL Server 2005 SP2+,6
+MS-SQL Server 2008 SP2,6
+MS-SQL Server 2008 SP4,6
+NEC SL2100/2.1,6
+Novell NetWare HTTP Stack,6
+OpenSIPS SIP Server,6
+RaidenMAILD pop3d,6
+RapidLogic httpd,6
+Sony BRAVIA KD-65X8000G,6
+Stormshield Network Security,6
+TwistedWeb,6
+WS FTPd,6
+Yeastar S100-30.14.0.127,6
+Yeastar S20-30.14.0.97,6
+Yeastar S20-65.15.0.68,6
+Yeastar S300-30.14.0.127,6
+Zope httpd,6
+pysnmp,6
+AGENT++,5
+ARK: Survival Evolved,5
+ASUS Wireless Router RT-AC68R,5
+ASUS Wireless Router RT-N66R,5
+Apple Remote Desktop,5
+Brother HL-L2360D series:84U-F75:Ver.1.29,5
+C-ICAP,5
+CP Plus CP-UNR-4K4164-V2,5
+Citadel smtpd,5
+D-Link DCS-942L,5
+Dahua DH-HCVR5108HS-V4,5
+Dahua DH-IPC-HDW1320SP,5
+Dahua DH-IPC-HFW1230SP-L,5
+Dahua DH-IPC-HFW1320SP,5
+Dahua DH-NVR-4108-KS3,5
+Dahua DH-NVR2104HS-P-HDS3,5
+Dahua DH-NVR3104HS-4KS2,5
+Dahua DH-NVR4108,5
+Dahua DH-NVR4108HS-4KS/N,5
+Dahua DH-NVR4116HS-4K2,5
+Dahua DH-NVR4216-HD,5
+Dahua DH-NVR5232-4KS2.,5
+Dahua DH-NVR5232-4KS3,5
+Dahua DH-NVR608-32-4K,5
+Dahua DH-NVR608-32-4K2,5
+Dahua DH-NVR7432,5
+Dahua DHI-HCVR4104HS-S2,5
+Dahua DHI-NVR2108HC-4KS2,5
+Dahua DHI-NVR3108HS-4KS2,5
+Dahua DHI-XVR4104C	,5
+Dahua DHI-XVR5108HS-S3,5
+Dahua DHI-XVR5232AN,5
+Dahua IPC-A15,5
+Dahua IPC-HFW4436M-I1-V2,5
+Dahua MC-NVR5232-4KS2,5
+Dahua NVR-4CH-1080P,5
+Dahua NVR1B04-4P/L,5
+Dahua NVR2108HS-S3,5
+Dahua NVR4104HS-4KS2,5
+Dahua PN-HCVJ208N-SJ3,5
+Dahua Panasonic-WV-SC588,5
+Dahua-based DH-XVR5116H-4KL-I3,5
+Dahua-based DHI-NVR5432-4KS2,5
+Dahua-based MD-5D08H1,5
+Dahua-based MD-5D16H1,5
+Dahua-based NVR4108HS-4KS2,5
+DirectAdmin httpd,5
+Dovecot DirectAdmin pop3d,5
+Grandstream UCM6204V1.4A 1.0.15.16,5
+Kannel SMS proxy httpd,5
+Logitech SqueezeCenter music server,5
+MS-SQL Server 2008 SP3+,5
+MS-SQL Server 2016 SP3,5
+MS-SQL Server 2017 CU28,5
+MS-SQL Server 2019 CU12,5
+Microsoft Exchange 2007-2010 imapd,5
+MikroTik Router OS,5
+Sony BRAVIA KD-43X8500F,5
+Sony BRAVIA KDL-49W800F,5
+SunSSH,5
+Symantec Messaging Gateway smtpd,5
+Synology DiskStation,5
+Tenor Multipath Switch ftpd,5
+"VOS2009 V2.1.2.0
+",5
+WSGIServer,5
+Yeastar S100-30.14.0.23,5

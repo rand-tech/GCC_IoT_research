@@ -1,0 +1,1002 @@
+Title,Count
+Apache httpd,1479020
+nginx,743351
+AkamaiGHost,640829
+OpenSSH,560130
+ciscoSystems,393261
+AWS ELB,362995
+Broadcom Corporation,347809
+Postfix smtpd,243196
+CloudFront httpd,197422
+Access Remote PC smtpd,139856
+Microsoft IIS httpd,101409
+PPTP,98414
+Remote Desktop Protocol,89556
+MySQL,81708
+net-snmp,76053
+Microsoft HTTPAPI httpd,74324
+Sendmail,67944
+lighttpd,67402
+NEC Corporation,41223
+Squid http proxy,33187
+Microsoft RPC Endpoint Mapper,31987
+ntpd,23382
+Ralink Linux UPnP IGD Project RT2880 IGD Version 1.00 RT2880 C,20776
+ProFTPD,20429
+Kubernetes,20317
+Hikvision IP Camera,19133
+thttpd,17460
+Boa Web Server,16412
+Pure-FTPd,16281
+Cisco router telnetd,15714
+WinRM,15190
+PostgreSQL,15021
+mini_httpd,14324
+mDNS,13446
+BigIP,13186
+Exim smtpd,12850
+OpenResty,12229
+BGP,11981
+VNC,11124
+"HUAWEI Technology Co.,Ltd",11115
+Minecraft,11042
+Mosquitto,9970
+Spotify Connect,9408
+Apache Tomcat/Coyote JSP engine,8895
+YAMAHA RT Series,8732
+MikroTik bandwidth-test server,8616
+Microsoft ftpd,7444
+"Juniper Networks, Inc.",7056
+Apache Tomcat,5476
+Check Point Firewall,5010
+Dropbear sshd,4524
+Kong Gateway,4510
+Microsoft RPC,4447
+uhttpd Web Server,4432
+EdgePrism,4349
+DD-WRT milli_httpd,4293
+Tengine,3923
+Azure Bastion,3892
+Microsoft Azure Application Gateway,3663
+Chromecast,3638
+MiniServ,3429
+Steam Dedicated Server,3429
+FreeBSD ftpd,3239
+ASUS Wireless Router RT-AX3000,3184
+Quagga routing software,3133
+Jetty,3106
+Apple AirPort,3040
+Salesforce,2984
+MySQL X Protocol,2980
+General Instrument,2930
+AirPlay,2847
+Redis key-value store,2818
+GoAhead-Webs httpd,2814
+SonicWall,2814
+rsyncd,2769
+RTL8xxx EV-2009-02-06,2739
+ASUS Wireless Router TUF-AX3000,2730
+Zscaler Cloud Services,2699
+QNAP,2698
+CUPS (IPP),2663
+Genome Variation Server,2528
+MQTT,2387
+ASUS AiCloud,2325
+CloudFlare,2311
+cPanel,2178
+Check Point SVN foundation httpd,2080
+Samba,2036
+Imunify360 Webshield,1978
+Netflix,1925
+Boa HTTPd,1898
+ARK: Survival Evolved,1894
+MongoDB,1888
+Cisco IOS http config,1803
+Yaws httpd,1781
+gSOAP soap,1702
+Kestrel,1612
+Netgear,1596
+Webmin,1579
+SonicWALL firewall http config,1517
+Apple remote desktop vnc,1470
+Istio Service Mesh,1455
+ASUS Wireless Router TUF-AX5400,1445
+SQL Server Browser Service,1436
+Nginx Microsoft HTTPAPI httpd,1424
+Wowza Streaming Engine,1370
+Node.js,1345
+WU-FTPD,1339
+Heimdal Kerberos,1309
+Panasonic AVC Server,1294
+GitLab Self-Managed,1268
+OpenVPN Access Server CWS,1262
+Nextcloud,1253
+ASUS Wireless Router RT-AC68U,1234
+uc-httpd,1225
+Netatalk,1191
+Alibaba Cloud Object Storage Service,1139
+ASUS Wireless Router RT-AC85U,1134
+BaseHTTPServer,1100
+Tornado Web Server,1077
+Prometheus Node Exporter,1048
+ASUS Wireless Router RT-AX86U,1007
+Allegro RomPager,997
+RealVNC Enterprise,988
+Oracle TNS Listener,976
+Portainer,968
+ASUS Wireless Router RT-AX55,966
+Pulse Secure Network Connect 8.3,956
+Outlook Web App,933
+RabbitMQ,923
+Jenkins,912
+SimpleHTTPServer,912
+Grafana (Open Source),911
+ASUS Wireless Router RT-AC88U,910
+TFTP,907
+ASUS Wireless Router RT-AX56U,903
+Plex,896
+TightVNC Java Viewer,890
+Cisco Umbrella,877
+BIZTEL Server,862
+"Brocade Communication Systems, Inc. (formerly 'Foundry Networks, Inc.')",857
+WHM,854
+XMail SMTP server,845
+ASUS Wireless Router RT-AC86U,828
+Qpopper pop3d,826
+ASUS Wireless Router RT-AX82U,815
+MikroTik Winbox,811
+Virata-EmWeb,801
+VMware Authentication Daemon,792
+smbx,787
+Microsoft Exchange smtpd,785
+D-Link/Airlink IP webcam http config,756
+Microsoft RPC Endpoint Mapper over HTTP,712
+vsftpd,704
+"U.C. Davis, ECE Dept. Tom",662
+rdate,661
+Cisco PIX sanitized smtpd,650
+H3C,646
+Dahua DH-XVR5104C-4KL-X-BLACK,640
+UW imapd,633
+Amazon S3 httpd,632
+Tinyproxy,628
+Metabase,624
+Erlang Port Mapper Daemon,608
+ASUS Wireless Router ZenWiFi AX,601
+OpenSER SIP Server,599
+ASUS Wireless Router RT-AX92U,597
+ASUS Wireless Router RT-AC65U,596
+Echo,582
+VMware ESXi,573
+Werkzeug httpd,566
+ASUS Wireless Router GT-AX11000,547
+iBoss Cloud,532
+Memcached,525
+TLS,523
+Lotus Domino httpd,514
+SonicWALL SSL-VPN http proxy,493
+Pulse Secure,492
+MailEnable smptd,486
+Dahua HCVR,478
+WebFS httpd,473
+ASUS Wireless Router ZenWiFi AX Mini,469
+ASUS Wireless Router RT-AX88U,463
+MS-SQL Server 2019 RTM,462
+GeoVision GeoHttpServer for webcams,458
+XMail pop3d,458
+rblsmtpd wrapped smtpd,455
+Lantronix X90,454
+NEC AtermHC100RC,440
+MS-SQL Server 2014 SP3,436
+mailfront smtpd,435
+MailEnable POP3 Server,433
+LiteSpeed httpd,432
+Firebird RDBMS,425
+FortiGate Endpoint Control httpd,416
+Dahua NVR,413
+MikroTik,413
+Splunk Server,413
+WEBrick httpd,406
+ASUS Wireless Router RT-AC67U,397
+QNAP TS-231P TS-231P,394
+IMail NT-ESMTP,390
+Tableau Server,389
+Mbedthis Appweb,382
+MikroTik RouterOS API Service,379
+Avtech AVN801 network camera,376
+Debut embedded httpd,376
+Barracuda Networks Spam Firewall smtpd,373
+InfluxDB,367
+RunCloud Nginx,354
+GoAhead Embedded Web Server,346
+Ethereum Discovery Protocol,341
+Microsoft ESMTP,340
+mt-daapd DAAP,336
+cppop pop3d,329
+Elastic,324
+ASUS Wireless Router RT-AC59U,318
+OpenVPN Access Server,315
+Cross Web Server,314
+Windows 2003 Kerberos,314
+Splunk Cloud,310
+MS-SQL Server 2019 GDR1+,309
+"APRESIA Systems, Ltd. (formerly 'Hitachi Cable, Ltd.')",305
+Apple Remote Desktop,299
+Subversion,298
+QNAP TS-231P,295
+Cisco catalyst switch telnetd,292
+micro_httpd,289
+Ventrilo,280
+MS-SQL Server 2017 RTM,278
+Dahua XVR,270
+Gunicorn,270
+AN httpd,268
+Sonos CONNECT:AMP,268
+iperf3,264
+ESET NOD32 anti-virus smtp proxy,255
+Famatech Radmin,255
+Dahua DVR,252
+F-Secure Internet Gateway SMTP proxy,252
+Control Web Panel (CWP),250
+oftpd,249
+Ralink Linux UPnP IGD Project IGD Version 1.00 RT2880 C,247
+ZTE H181A,247
+Connectra Check Point Web Security httpd,243
+Hewlett-Packard,243
+ASUS Wireless Router RT-AC1200HP,242
+Panasonic BB-ST165 webcam http config,240
+Panasonic BB-ST162 webcam http config,237
+Realtek Semiconductor Corp. RTL8xxx EV-2006-07-27,237
+Contiki httpd,236
+Dahua-based DVR,235
+Microsoft IIS,232
+"NetScreen Technologies, Inc.",226
+Dovecot imapd,223
+Panasonic WV-SFN110 webcam http config,223
+Mongrel httpd,220
+ASUS Wireless Router ZenWiFi AC,218
+ASUS Wireless Router GT-AC5300,215
+Dahua-based XDR0412,212
+ASUS Wireless Router RT-AC87U,202
+Sophos User Portal,198
+Dahua-based XVR,197
+tnftpd,197
+Panasonic BB-SC364 webcam http config,196
+Cyrus pop3d,190
+Post.Office,188
+"D-Link Systems, Inc.",183
+GNU Inetutils FTPd,182
+"Allied Telesis, Inc.",177
+3CX Phone System Management Console,176
+Netwave IP camera http config,173
+Cisco router tftpd,164
+LG webOS TV,162
+MS-SQL Server 2014 RTM,160
+HP iLO,159
+Mono-HTTPAPI,158
+MS-SQL Server 2017 RTM+,157
+MS-SQL Server 2019 CU15+,155
+PS3 Media Server UPnP,153
+Home Assistant,151
+Ganglia XML Grid monitor,150
+iPlanet web proxy,149
+Sandpiper Footprint http load balancer,148
+Zope httpd,146
+IBM HTTP Server,145
+ASUS Wireless Router RT-AX86S,144
+Kangle Web Server,144
+"Ruijie Networks Co., Ltd. (formerly 'Start Network Technology Co., Ltd.')",144
+WildFly,144
+openHAB,144
+Linksys wireless-G WAP http config,143
+ASUS Wireless Router RT-AX89X,142
+Sophos SSL VPN User Portal,141
+WeOnlyDo sshd,139
+WebRTC,138
+"Fortinet, Inc.",137
+RealVNC,137
+PRAVIS,135
+SCS sshd,134
+Asterisk,133
+Panasonic BB-SC382 webcam http config,133
+Aruba Networks Inc,131
+Panasonic BB-SW175 webcam http config,131
+RealPort,126
+CCProxy smtp proxy,125
+Fujitsu IPCOM,124
+QNAP TS-220 TS-220,123
+Fujitsu Limited,122
+QNAP VS-2204 Pro+ VS-2204 Pro+,121
+Dahua DH-XVR5104H-X-4P,120
+Furukawa Electoric Co. Ltd.,120
+Lego Server,120
+Panasonic BB-SW172 webcam http config,119
+Kafka,116
+MS-SQL Server 2000 SP1+,115
+SunSSH,115
+Aruba Instant,114
+WSGIServer,114
+MS-SQL Server 2012 RTM,113
+Grafana (Enterprise),112
+Mini web server 1.0 ZTE corp 2005,112
+Netscape Enterprise httpd,111
+WSR-1166DHPL2,111
+ChipPC Extreme httpd,104
+Geth,104
+Oracle Application Server 10g httpd,104
+RealVNC Personal,104
+Thin,103
+Android Debug Bridge,102
+Pocket CMD telnetd,97
+MS-SQL Server 2014 SP2,96
+QNAP TS-469 Pro TS-469 Pro,96
+QNAP VS-2208 Pro+ VS-2208 Pro+,96
+Android Debug Bridge (ADB),95
+IP Camera,95
+"Brocade Communications Systems, Inc.",94
+3S-Smart Software Solutions,93
+CherryPy httpd,93
+CommuniGate Pro httpd,93
+MoxaHttp,93
+ASUS Wireless Router,91
+Linux SNMP multiplexer,91
+ZTE web server 1.0 ZTE corp 2015,91
+Canon printer web interface,90
+Windows qotd,90
+Gaspot,88
+Mumble Server,88
+SMC SMC2870W Wireless Ethernet Bridge,88
+etcd,88
+Symantec Messaging Gateway smtpd,86
+QNAP TS-431P TS-431P,85
+Docker Registry HTTP API,84
+Munin,84
+Panasonic BB-SC384B webcam http config,84
+ProFTPD or KnFTPD,84
+Resin Web Server,84
+ASUS Wireless Router GT-AX6000,83
+Dell Inc.,83
+QNAP TS-220,83
+QNAP VS-2204 Pro+,83
+Sendmail Switch smtpd,83
+pysnmp,83
+Mail2000 smtpd,82
+TwistedWeb httpd,82
+"Delta Electronics, Inc.",81
+Mitsubishi Q PLC,81
+4D WebStar D,79
+Panasonic WV-SC385 webcam http config,78
+GPRS Tunneling Protocol,77
+QNAP TS-451 TS-451,77
+QNAP VS-2104Pro+ VS-2104Pro+,77
+Realtek Semiconductor Corp. RTL8xxx EV-2010-09-20,77
+The FreeBSD Project,77
+ASUS Wireless Router GT-AC2900,75
+CANON Inc.,75
+Dahua DHI-NVR4104HS-P-4KS2,74
+NoMachine NX Server remote desktop,74
+QNAP TS-269 Pro TS-269 Pro,71
+MikroTik router ftpd,70
+Panasonic WV-S6110 webcam http config,69
+TwonkyMedia UPnP,68
+xinetd chargen,68
+MS-SQL Server 2008 R2 SP1,67
+Panasonic WV-S6130 webcam http config,67
+QNAP TS-469 Pro,67
+MS-SQL Server 2014 RTM+,66
+Dahua DHI-NVR5208-8P-4KS2E,65
+MS-SQL Server 2017 CU28+,65
+OpenSMTPD,65
+Gene6 ftpd,64
+MS-SQL Server 2008 R2 RTM,64
+vIPtela Inc.,64
+Blackjumbodog FTPd,63
+ClickHouse,63
+Dahua IP Camera,63
+Elastichoney,63
+QNAP TS-431P,63
+Tuya,63
+Microsoft Windows RPC over HTTP,62
+Pulse Secure Network Connect 9.0,62
+bftpd,62
+MIT Kerberos,61
+MS-SQL Server 2014 SP3+,61
+Oracle XML DB Enterprise Edition httpd,61
+QNAP VS-2208 Pro+,61
+NetScreen sshd,60
+MS-SQL Server 2017 CU23,59
+GoAhead httpd,58
+"I-O DATA DEVICE, INC. WN-G300GR 81",58
+IBM DB2 Database Server,58
+Linksys WRT45G modified dropbear sshd,58
+QNAP TS-228 TS-228,58
+QNAP TS-231 TS-231,58
+Brother/HP printer ftpd,57
+MDaemon pop3d,57
+OpenFlow,57
+QNAP TS-231K TS-231K,57
+WSR-1166DHP3,57
+AirDroid httpd,56
+Mac OS X kerberos-sec,56
+Oracle HTTP Server Powered by Apache,56
+QNAP VS-4112Pro+ VS-4112Pro+,56
+SNMP Research,56
+ASUS Wireless Router Lyra_Mini,55
+Panasonic WV-SW395 webcam http config,55
+Brother printer tftpd,54
+E-Post POP3 Server,54
+GoAhead-Webs embedded httpd,54
+Motion Camera httpd,54
+CouchDB,53
+HttpFileServer httpd,53
+Lotus Domino smtpd,53
+Salt,53
+Abyss httpd,52
+TeamViewer,52
+MS-SQL Server 2014 SP1,51
+Treck Embedded ftpd,51
+TwistedWeb,51
+Cisco router daytime,50
+MS-SQL Server 2016 SP1CU15+,50
+Wowza Media Server,50
+Agranat-EmWeb,49
+Buffalo WSR-5400AX6S 5400,49
+MS-SQL Server 2016 SP1,49
+Panasonic WV-S6530 webcam http config,49
+QNAP TS-231+ TS-231+,49
+"SonicWALL, Inc.",49
+poppassd,49
+QNAP VS-2104Pro+,48
+Serv-U ftpd,48
+Vtun Virtual Tunnel,48
+Alt-N MDaemon mail server,47
+Dahua DH-IPC-HDBW4231FN-AS-0280B,47
+Dovecot pop3d,47
+IBM WebSphere Application Server,47
+JAMES smtpd,47
+JSS H.264 Network Camera,47
+MS-SQL Server 2008 R2 SP2,47
+Multicraft ftpd,47
+QNAP HS-210,47
+QNAP HS-210 HS-210,47
+ASUS Wireless Router ZenWiFi XD6,46
+QNAP TS-231K,46
+Wireless Router IGD 1.00,46
+Apple AirPlay httpd,45
+Asterisk PBX,45
+Consul,45
+IRCnet ircd,45
+MS-SQL Server 2014 SP3CU4,45
+MS-SQL Server 2022 CTP1.0+,45
+QNAP VS-2104L VS-2104L,45
+Sony BRAVIA KJ-55X9000F,45
+"Force10 Networks, Inc.",44
+"ITUS JAPAN Co.,Ltd.",44
+Oracle iPlanet Web Server,44
+QNAP TS-219P II TS-219P II,44
+Sony BRAVIA KJ-49X8300D,44
+Unrecognized SMTP service,44
+ASUS Wireless Router RT-AC3200,43
+Asterisk PBX 1.8.32.3,43
+Panasonic Network Camera BB-HCM581,43
+QNAP NAS-473,43
+QNAP NAS-473 NAS-473,43
+Sony BRAVIA KJ-49X9000E,43
+MS-SQL Server 2014 SP2+,42
+VxWorks ftpd,42
+QNAP TS-451,41
+QNAP TS-669 Pro TS-669 Pro,41
+Sony BRAVIA KJ-55A8F,41
+alphapd,41
+Dahua-based XDR0824,40
+FPBX,40
+MS-SQL Server 2016 SP2,40
+MS-SQL Server 2019 CU8,40
+Mathopd httpd,40
+Panasonic WV-SF138 webcam http config,40
+MS-SQL Server 2012 SP4,39
+MS-SQL Server 2016 SP3,39
+Panasonic DVR slinger http config,39
+EZproxy web proxy,38
+IronPort AsyncOS http config,38
+Juniper Networks/Unisphere,38
+Lantronix XPort embedded ethernet http config,38
+MS-SQL Server 2016 RTM,38
+NetBSD lukemftpd,38
+Panasonic BB-SW174W webcam http config,38
+Panasonic WV-S1511L webcam http config,38
+QNAP TS-212P TS-212P,38
+Sony BRAVIA KJ-43X8000E,38
+Sony BRAVIA KJ-49X9000F,38
+Zeus httpd,38
+Dahua DH-XVR5108H-X-8P,37
+Future Software,37
+Juniper Network Connect 8.0 (Pulse Secure),37
+QNAP TS-269 Pro,37
+Synology DiskStation NAS ftpd,37
+ASUS Wireless Router BRT-AC828,36
+Apexis APM-H803-MPC,36
+Cisco IronPort C160 firewall smtpd,36
+Mac OS X Server serialnumberd,36
+QNAP VS-4112Pro+,36
+pidentd,36
+ApplePasswordServer pop3 password change daemon,35
+Oracle WebLogic Server,35
+Pulse Secure Network Connect 8.1,35
+QNAP TS-119P II TS-119P II,35
+QNAP TS-231,35
+ClamAV,34
+NetMotion Mobility VPN,34
+QNAP TS-231+,34
+QNAP TS-453Be TS-453Be,34
+Cadant Inc.,33
+Extreme Networks,33
+MDaemon smtpd,33
+Panasonic DG-SC385 webcam http config,33
+QNAP TS-212P,33
+Sony BRAVIA KJ-55X9350D,33
+DirectAdmin,32
+MS-SQL Server 2019 CU12,32
+Panasonic BB-SC384 webcam http config,32
+QNAP TS-112P,32
+Socks4A,32
+Sony BRAVIA KJ-43X8300D,32
+Sony BRAVIA KJ-55X8500D,32
+Courier Imapd,31
+HP Integrated Lights-Out mpSSH,31
+Hydra,31
+MS-SQL Server 2014 SP1+,31
+Philips Hue Bridge v2 (BSB002),31
+QNAP NAS-453-G Pro NAS-453-G Pro,31
+QNAP TS-112P TS-112P,31
+QNAP VS-4116Pro+ VS-4116Pro+,31
+Sony BRAVIA KJ-55X9300C,31
+WinMX or Lopster Napster P2P client,31
+CWR-GN150S EV-2011-08-30,30
+IBM Desktop On-Call httpd,30
+Juniper Network Connect 7.4.0 (Pulse Secure),30
+MS-SQL Server 2017 CU27,30
+Panasonic WV-S3110 webcam http config,30
+Sony BRAVIA KJ-55X9000E,30
+Sun GlassFish,30
+VMware vCenter Server,30
+Cobalt Strike Beacon,29
+MS-SQL Server 2008 R2 SP2+,29
+MS-SQL Server 2019 CU15,29
+QNAP TS-219P II,29
+QNAP TS-251D TS-251D,29
+QNAP VS-2104L,29
+RND,29
+SAProuter,29
+Sony BRAVIA KJ-49X8000E,29
+WatchGuard Technologies Inc.,29
+Conexant-EmWeb,28
+Dahua SD,28
+Haproxy http proxy,28
+MELCO Inc.,28
+MS-SQL Server 2017 CU19,28
+QNAP NAS-453-G Pro,28
+QNAP TS-228,28
+QNAP TS-669 Pro,28
+QNAP VS-2108Pro+ VS-2108Pro+,28
+Unreal ircd,28
+FirstClass SMTP server,27
+Logitec EV-2009-02-06,27
+MS-SQL Server 2005 SP4,27
+MS-SQL Server 2012 SP2,27
+QNAP TS-120 TS-120,27
+Qpop pop3d,27
+Solid H.264 Network Camera,27
+Sony BRAVIA KJ-43X8500C,27
+ASUSTeK Computer Inc. Wi-Fi Protected Setup Router RT-AX3000,26
+Ambit Microsystems Corporation,26
+ArGoSoft Mail Server Freeware,26
+HMS Industrial Networks AB,26
+Hitachi Web Server httpd,26
+MS-SQL Server 2012 SP1+,26
+MS-SQL Server 2017 CU22,26
+QNAP TS-269L TS-269L,26
+QNAP TS-453Be,26
+Sony BRAVIA KJ-43X8500F,26
+Sony BRAVIA KJ-65A8F,26
+Squid ftp proxy,26
+qmail pop3d,26
+ArGoSoft Mail Server Pro,25
+Dahua DH-XVR5108H-4KL-X-8P,25
+"I-O DATA DEVICE, INC WN-AC1167R 1.04",25
+MS-SQL Server 2012 SP3,25
+MS-SQL Server 2016 SP1+,25
+Pulse Secure Network Connect 8.2,25
+QNAP VS-4116Pro+,25
+Ralink Linux UPnP IGD Project Version 1.00 UPnP IGD,25
+TurboSendmail smtpd,25
+VanDyke VShell,25
+ejabberd,25
+iKuai,25
+Conan Exiles,24
+Dahua DHI-NVR4104-P-4KS2-WHITE,24
+Kerio Connect smtpd,24
+Logitec IGD Version 1.00 LAN-WH300AN/DGR,24
+MS-SQL Server 2016 SP2+,24
+NetApp filer httpd,24
+Panasonic Network Camera BB-HCM580,24
+Sony BRAVIA KJ-49X8500F,24
+Ultr@VNC Repeater,24
+FileZilla ftpd,23
+Glastopf honeypot,23
+Logitec IGD Version 1.00 LAN-WH450N/DGR,23
+QNAP TS-112,23
+QNAP TS-421 TS-421,23
+SITA ADS,23
+pyftpdlib,23
+ASUS Wireless Router Lyra Mini,22
+ASUSTeK Computer Inc. Wi-Fi Protected Setup Router RT-AX86U,22
+Check Point Firewall-1 ftpd,22
+GNU Zebra routing software,22
+MS-SQL Server 2012 SP4+,22
+QNAP TS-119P II,22
+Sony BRAVIA KJ-49X8500C,22
+ASUS Wireless Router Lyra_Trio,21
+Epson printer httpd,21
+Fortinet VPN/firewall sshd,21
+Juniper Network Connect 7.1.0 (Pulse Secure),21
+Juniper Network Connect 7.3.0 (Pulse Secure),21
+MS-SQL Server 2000 SP4,21
+MikroTik http proxy,21
+Oracle HTTP Server,21
+QNAP TS-221 TS-221,21
+QNAP TS-251B TS-251B,21
+SXLM1.0.2beta7,21
+Dahua IP PTZ Camera,20
+Franz Allegroserve httpd,20
+IdeaWebServer httpd,20
+InspIRCd,20
+MS-SQL Server 2016 SP3+,20
+MegaBit Gear ftpd,20
+Ncat http proxy,20
+Panasonic BB-SW374 webcam http config,20
+QNAP TS-112 TS-112,20
+QNAP TS-212 TS-212,20
+QNAP TS-251+,20
+QNAP TS-253D TS-253D,20
+WEX-1166DHPS,20
+WSR-1166DHPL,20
+WebLogic applications server,20
+3Proxy http proxy,19
+ASUS Wireless Router Lyra Trio,19
+ASUSTeK Computer Inc. Wi-Fi Protected Setup Router TUF-AX3000,19
+Apache ActiveMQ,19
+Dahua DHI-NVR5208-8P-4KS2,19
+Deltapath frSIP UC 5.1.1,19
+QNAP TS-131,19
+QNAP TS-412 TS-412,19
+QNAP TS-421,19
+Rapid City Communication,19
+Sony BRAVIA KJ-43X7500F,19
+WYM httpd,19
+ASUS Wireless Router RT-AC5300,18
+Docker,18
+Google httpd,18
+Internet Communications Engine,18
+Lantronix,18
+Panasonic WV-S1510 webcam http config,18
+QNAP TS-131 TS-131,18
+QNAP TS-131P TS-131P,18
+QNAP TS-230 TS-230,18
+QNAP TS-253Be TS-253Be,18
+QNAP TS-453D TS-453D,18
+QNAP TS-869 Pro,18
+Ralink router 1,18
+Sony BRAVIA KJ-55X9500E,18
+cloudflare-nginx,18
+"elecom co., ltd.",18
+libssh,18
+rippled,18
+ActiveMQ OpenWire Transport,17
+FirstClass pop3d,17
+MS-SQL Server 2008 R2 SP3,17
+Panasonic Network Camera BB-HCM531,17
+QNAP TS-469L,17
+QNAP VS-6120Pro+ VS-6120Pro+,17
+Remedy AR System Server,17
+TP-Link Kasa Smart Wi-Fi Plug Mini HS105(JP),17
+WSR-1166DHP4,17
+Werkzeug,17
+Xitami httpd,17
+ASUS Wireless Router RT-AX86U Pro,16
+"Alcatel-Lucent (formerly 'Panthera Networks, Inc.')",16
+Apache Advanced Extranet Server httpd,16
+Asterisk PBX 16.1.1,16
+BSD TCP Wrappers,16
+Dahua-based XDR1624P,16
+GM Streaming Server httpd,16
+Kerio Connect Webmail,16
+MS-SQL Server,16
+MS-SQL Server 2008 RTM,16
+PLANEX COMMUNICATIONS INC. MZK-DP150N 1.00,16
+Panasonic BB-SP104W webcam http config,16
+Panasonic WV-S1531L webcam http config,16
+PowerDNS dnsdist,16
+QNAP TS-412,16
+QNAP TS-431 TS-431,16
+QNAP TS-869 Pro TS-869 Pro,16
+Rex media encoder http config,16
+Sony BRAVIA KJ-55A1,16
+Tridium Niagara httpd,16
+Web-Based Enterprise Management CIM serverOpenPegasus WBEM httpd,16
+Xiaomi IoT,16
+qmail smtpd,16
+AndroMouse Android remote mouse server,15
+DDoS-Guard,15
+Dahua DH-XVR7104HE-4KL-X,15
+Fnord httpd,15
+MS-SQL Server 2014,15
+MS-SQL Server 2016 RTM+,15
+MiniDLNA,15
+Panasonic WV-SF438 webcam http config,15
+Panasonic WV-SW155 webcam http config,15
+Panasonic WV-SW397 webcam http config,15
+QNAP TS-128,15
+QNAP TS-251A TS-251A,15
+QNAP VS-2108Pro+,15
+Sony BRAVIA KJ-55X8500E,15
+vsftpd (before 2.0.8) or WU-FTPD,15
+Cisco/3com IPSSHd,14
+Dahua DH-XVR5104H-X-4P(2TB),14
+FreeFTPd,14
+KaZaA P2P client Peer Point Manager,14
+Lotus Domino POP3 server,14
+MS-SQL Server 2012 SP2+,14
+MS-SQL Server 2017 CU20,14
+NATS,14
+"NEC Platforms, Ltd. Aterm Series",14
+NQ 7.2,14
+Oracle GlassFish,14
+PLANEX COMMUNICATIONS INC. MZK-MR150,14
+Panasonic WV-SPW611L webcam http config,14
+Panasonic WV-SW158 webcam http config,14
+QNAP TS-119,14
+QNAP TS-121 TS-121,14
+QNAP TS-219P+,14
+QNAP TS-251+ TS-251+,14
+QNAP TS-251D,14
+QNAP TS-431K TS-431K,14
+QNAP TS-453 Pro TS-453 Pro,14
+QNAP TS-453A TS-453A,14
+QNAP TS-459,14
+QNAP TS-469L TS-469L,14
+SXLM1.0.7beta1.iodata,14
+Sony BRAVIA KJ-49X7000D,14
+Sony BRAVIA KJ-55X8500F,14
+Sun ONE Web Server,14
+VMware Workstation,14
+Veritas Backup Exec ndmp,14
+ASUS Wireless Router GT-AX11000 Pro,13
+ASUSTeK Computer Inc. Wi-Fi Protected Setup Router TUF-AX5400,13
+Apple AirTunes roapd,13
+Axigen smtpd,13
+CastleNet Technology Inc.,13
+Compaq,13
+DrayTek Vigor Router,13
+MS-SQL Server 2016 SP2CU16,13
+MS-SQL Server 2017 CU17,13
+Microsoft Windows 2003 POP3 Service,13
+Netscaler,13
+O'Reilly WebSite Pro,13
+PCI MZK-MF150 MZK-MF150,13
+QNAP TS-119 TS-119,13
+QNAP TS-120,13
+QNAP TS-251B,13
+QNAP TS-269L,13
+QNAP TS-419P II TS-419P II,13
+QNAP TS-420 TS-420,13
+QNAP TS-431+ TS-431+,13
+QNAP TS-431X2 TS-431X2,13
+QNAP TS-451+ TS-451+,13
+QNAP TS-473 TS-473,13
+QNAP VS-8232 Pro+ VS-8232 Pro+,13
+RICOH Co. Ltd.,13
+Sony BRAVIA KJ-49X8000C,13
+Typesense,13
+WebCompanion httpd 6.0Jv1,13
+lancom sshd,13
+ALT-N SecurityGateway smtpd,12
+Buffalo WSR-5400AX6 5400,12
+Communigate Pro SMTP,12
+Dahua IPN-4208P8-HH-4T,12
+Eudora EIMS X smtpd,12
+MS-SQL Server 2005 RTM,12
+MS-SQL Server 2012 SP3+,12
+MS-SQL Server 2017 CU24,12
+MS-SQL Server 2017 CU25,12
+Microsoft Exchange 2010 smtpd,12
+Network Flight Recorder BackOfficer Friendly telnet honeypot,12
+Panasonic WV-S3130 webcam http config,12
+Panasonic WV-SFN130 webcam http config,12
+Panasonic WV-SPW311AL webcam http config,12
+QNAP TS-219P+ TS-219P+,12
+QNAP TS-231P2 TS-231P2,12
+QNAP TS-419P II,12
+Signify Philips hue bridge 2015 BSB002,12
+Sony BRAVIA KJ-43W870C,12
+Sony BRAVIA KJ-43X8000G,12
+Sony BRAVIA KJ-55X8500C,12
+Sony BRAVIA KJ-55X9300D,12
+Swann DVR8-2600 security camera system httpd,12
+Varnish HTTP Cache,12
+Webwasher CSM Suite smtpd,12
+libwww-perl-daemon httpd,12
+2Wire HomePortal touer http config,11
+Advanced Message Queue Protocol,11
+Dahua DH-SD22204TN-GN,11
+Dahua DH-XVR5104C-X1,11
+Dahua DHI-NVR5416-16P-4KS2E,11
+Dovecot Pigeonhole sieve,11
+GlobalScape CuteFTP sshd,11
+"I-O DATA DEVICE, INC. Broadband Router",11
+LANCOM Server,11
+Linux UPnP IGD Project RT2880 IGD Version 1.00 RT2880 C,11
+MS-SQL Server 2008 R2 RTM+,11
+MS-SQL Server 2017 CU22+,11
+MS-SQL Server 2019 CU14,11
+NTMail smtpd,11
+Panasonic DG-SP304 webcam http config,11
+Panasonic Network Camera BL-C111,11
+Panasonic VL-CD265 webcam http config,11
+Panasonic WV-SFN310A webcam http config,11
+QNAP TS-230,11
+QNAP TS-231P3 TS-231P3,11
+QNAP TS-251A,11
+QNAP TS-253Be,11
+QNAP TS-431P2 TS-431P2,11
+QNAP TS-459 Pro+,11
+Ricoh maintenance telnetd,11
+Rockwell Automation/Allen-Bradley,11
+Sony BRAVIA KJ-65X8500D,11
+Sony BRAVIA TV,11
+besu,11
+cPanel httpd,11
+lpd,11
+Blue Server,10
+Dahua DH-NVR2108HS-HDS3,10
+Google Gmail imapd,10
+Indy,10
+Juniper Network Connect 6.5.0 (Pulse Secure),10
+MS-SQL Server 2016 SP1CU8,10
+MS-SQL Server 2019 CU4,10
+Mocana embedded SSH,10
+NQ 6.2,10
+Panasonic DG-SF334 webcam http config,10
+Panasonic Network Camera BB-HCM511,10
+Panasonic WV-S2110 webcam http config,10
+PasteWSGIServer,10
+QNAP NAS-673,10
+QNAP TS-119P+ TS-119P+,10
+QNAP TS-121,10
+QNAP TS-128 TS-128,10
+QNAP TS-131P,10
+QNAP TS-212,10
+QNAP TS-431X2,10
+QNAP TS-451+,10
+QNAP TS-453A,10
+QNAP TS-459 Pro II TS-459 Pro II,10
+QNAP TS-469-G,10
+QNAP TS-653A,10
+QNAP VS-6120Pro+,10
+Symantec firewall http proxy,10
+Titan ftpd,10
+ALAXALA Networks Corporation,9
+ASUS Wireless Router RT-N66U,9
+ASUSTeK Computer Inc. Wi-Fi Protected Setup Router RT-AX92U,9
+Conpot,9
+Cyrus imapd,9
+Dahua DH-XVR7216A-4KL-X,9
+Dahua DHI-NVR5216-16P-I,9
+Dahua IPN-4204P4-HH-2T,9
+Dahua IPN-5216P16-HH-4T,9
+Dell PowerConnect 6248 switch telnetd,9
+Intel NetportExpress print server ftpd,9
+Killing Floor 2,9
+MS-SQL Server 2000 SP3a,9
+Panasonic DG-SW395 webcam http config,9
+QNAP TS-110 TS-110,9
+QNAP TS-128A TS-128A,9
+QNAP TS-131K,9
+QNAP TS-228A TS-228A,9
+QNAP TS-253D,9
+QNAP TS-420,9
+QNAP TS-431K,9
+QNAP TS-459 Pro+ TS-459 Pro+,9
+QNAP TS-469-G TS-469-G,9
+QNAP TS-473,9
+QNAP VS-8148Pro+ VS-8148Pro+,9
+Raritan KVM,9
+Sony BRAVIA KJ-49X7500F,9
+Sony BRAVIA KJ-65A1,9
+Synology DS218+ 6.2-25556,9
+ASUS Wireless Router RT-AC67P,8
+ASUS Wireless Router RT-AX56U V2,8
+AXIS (network cameras),8
+Apple QuickTime Streaming Server,8
+ArGoSoft Mail Server pop3d,8
+BUFFALO INC TeraStation,8
+BarracudaHTTP,8
+Belkin Wemo Insight 1.0,8
+Cosminexus httpd,8
+Counter-Strike: Global Offensive,8
+Dahua DH-NVR1108HC-HDS4,8
+Dahua DH-XVR5104C-X1(2TB),8
+Dahua DHI-NVR4104HS-P-4KS2/L,8
+"ELECOM Co.,LTD. WRC-1900GHBK",8
+Eudora Internet Mail Server X pop3d,8
+FXC Inc.,8
+FileMaker Web Publishing httpd,8
+FreSSH,8
+Gateway Technologies Inc.,8
+"Huawei Technologies Co., Ltd. HG532e Huawei Model",8
+JAMES nntpd,8
+JBoss Enterprise Application Platform,8
+JRun Web Server,8
+Junoscript XML Interface,8
+Logitec IGD Version 1.00 RT3662 C,8
+MS-SQL Server 2019 GDR1,8
+"Net & Sys Co., Ltd",8
+Niagara Fox,8
+Panasonic Network Camera BB-HCM735,8
+Panasonic VL-CD235 webcam http config,8
+Panasonic WV-SPN310AV webcam http config,8
+Python SMTP Proxy,8
+QNAP TS-131K TS-131K,8
+QNAP TS-219P TS-219P,8
+QNAP TS-253A TS-253A,8
+QNAP TS-453 Pro,8
+QNAP TS-459 TS-459,8
+QNAP TS-473A TS-473A,8
+QNAP TS-659 Pro II TS-659 Pro II,8
+Rhinosoft Serv-U httpd,8
+"Sonos, Inc. Sonos CONNECT:AMP ZP120",8
+Sony BRAVIA KJ-55A8G,8
+Sony BRAVIA KJ-65X9350D,8
+Sun Java System Application Server httpd,8
+"VOS2009 V2.1.2.0
+",8
+Vault,8
+Xiaongmai DVR,8
+bor,8
+nPerf,8
+ASUSTeK Computer Inc. Wi-Fi Protected Setup Router GT-AX11000,7
+Alcatel-Lucent (formerly 'Alcatel Data Network'),7
+AudioCodes MP-124 SIP gateway sshd,7
+BSD lpd,7
+Bitvise WinSSHD,7
+Canon printer http config,7
+Counter-Strike: Source,7
+Courier pop3d,7
+Dahua DH-IPC-HFW2221RN-ZS-IRE6,7
+Dahua DH-NVR2104HS-HDS3,7
+Dahua DHI-NVR608-32-4KS2,7
+Dahua NVS,7
+IceWarp smtpd,7
+Indy httpd,7
+Ipswitch IMail Monitor web service,7
+JC-SHTTPD,7
+Java Message Service,7
+Kerio Connect webmail httpd,7
+L4D - Co-op - Normal,7
+LANCOM Systems,7
+Lotus Domino International httpd,7
+MS-SQL Server 2019 CU13,7
+"Matsushita Electric Industrial Co., Ltd.",7
+Microsoft Windows daytime,7
+Panasonic BB-HCM331 Network Camera http config,7
+Panasonic Network Camera BB-HCM527,7
+Panasonic WV-S4150 webcam http config,7
+Panasonic WV-SPW310 webcam http config,7
+Panasonic WV-SW316L webcam http config,7
+Panasonic WV-X6511 webcam http config,7
+Panasonic WV-X6533L webcam http config,7
+Pragma FortessSSH,7
+QNAP NAS-673 NAS-673,7
+QNAP NSB-5A2BL,7
+QNAP NSB-5A2BL NSB-5A2BL,7
+QNAP TS-128A,7

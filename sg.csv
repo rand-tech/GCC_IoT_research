@@ -1,0 +1,1006 @@
+Title,Count
+nginx,605308
+OpenSSH,539588
+Apache httpd,309063
+AkamaiGHost,296683
+AWS ELB,180154
+MySQL,88074
+Exim smtpd,76983
+Remote Desktop Protocol,62459
+CloudFront httpd,50231
+Microsoft IIS httpd,47704
+Microsoft HTTPAPI httpd,46969
+Pure-FTPd,40952
+Postfix smtpd,40666
+Imunify360 Webshield,38006
+Kubernetes,25564
+OpenResty,24142
+PostgreSQL,19601
+ciscoSystems,16299
+Microsoft RPC Endpoint Mapper,15539
+Tengine,14620
+cPanel,13806
+Hikvision IP Camera,12421
+PPTP,12334
+Squid http proxy,10270
+Kong Gateway,10184
+WinRM,9822
+lighttpd,9422
+ASUS Wireless Router RT-AX55,8691
+MongoDB,7733
+RunCloud Nginx,6991
+WHM,6124
+ntpd,5818
+CloudFlare,5718
+Dropbear sshd,5609
+Redis key-value store,5250
+"HUAWEI Technology Co.,Ltd",5036
+alphapd,4995
+Apache Tomcat/Coyote JSP engine,4886
+ASUS Wireless Router RT-AC1200G+,4261
+LiteSpeed httpd,4163
+net-snmp,4091
+ASUS Wireless Router RT-AC2600,4080
+Jetty,3944
+ASUS Wireless Router ZenWiFi AC,3864
+MySQL X Protocol,3587
+BigIP,3458
+Apache Tomcat,3359
+RabbitMQ,3351
+Microsoft Azure Application Gateway,3073
+MikroTik bandwidth-test server,3056
+Microsoft ftpd,2938
+VNC,2903
+Prometheus Node Exporter,2751
+ASUS Wireless Router RT-AX88U,2592
+OpenVPN Access Server CWS,2430
+MQTT,2346
+Node.js,2297
+Istio Service Mesh,2274
+MailEnable smptd,1977
+Azure Bastion,1950
+Erlang Port Mapper Daemon,1923
+Jenkins,1885
+Kestrel,1837
+Minecraft,1795
+Home Assistant,1785
+MailEnable POP3 Server,1772
+MiniServ,1740
+Alibaba Cloud Object Storage Service,1733
+Portainer,1726
+ASUS AiCloud,1634
+Zscaler Cloud Services,1593
+Grafana (Open Source),1568
+MikroTik Winbox,1558
+mDNS,1522
+ASUS Wireless Router ZenWiFi AX,1453
+GitLab Self-Managed,1416
+BGP,1402
+Webmin,1380
+SonicWall,1378
+QNAP,1368
+BaseHTTPServer,1349
+Avtech AVN801 network camera,1322
+ASUS Wireless Router RT-AC88U,1273
+Cisco router telnetd,1184
+ProFTPD,1168
+MikroTik,1150
+Check Point Firewall,1140
+ASUS Wireless Router ZenWiFi XD6,1103
+ASUS Wireless Router Lyra_Trio,1099
+ASUS Wireless Router Lyra Trio,1080
+ASUS Wireless Router RT-AX86U,1025
+rsyncd,1001
+ASUS Wireless Router RT-AX58U,978
+Genome Variation Server,974
+Plex,946
+EdgePrism,917
+SQL Server Browser Service,912
+Cisco IOS http config,896
+Werkzeug httpd,849
+Boa Web Server,820
+Metabase,820
+ASUS Wireless Router ZenWiFi XD6S,783
+Multicraft ftpd,781
+Tinyproxy,781
+Elastic,780
+DrayTek Vigor Router,779
+MikroTik RouterOS API Service,778
+Control Web Panel (CWP),771
+MS-SQL Server 2019 RTM,740
+Dahua XVR,738
+Samba,737
+H3C,714
+3CX Phone System Management Console,713
+ASUS Wireless Router RT-AC86U,697
+Mosquitto,682
+Microsoft Exchange smtpd,675
+Tornado Web Server,675
+Sophos User Portal,670
+SonicWALL firewall http config,659
+VMware Authentication Daemon,627
+ASUS Wireless Router GT-AX11000,623
+ASUS Wireless Router ZenWiFi AX Mini,614
+OpenVPN Access Server,599
+Socks4A,578
+VMware ESXi,572
+ASUS Wireless Router TUF-AX3000,570
+ASUS Wireless Router GT-AX6000,563
+InfluxDB,559
+Ethereum Discovery Protocol,549
+ASUS Wireless Router RT-AC68U,547
+Oracle TNS Listener,546
+SimpleHTTPServer,541
+ASUS Wireless Router RT-AX82U,531
+Nextcloud,522
+Kafka,506
+Chromecast,501
+Cisco Umbrella,500
+Wowza Streaming Engine,498
+ASUS Wireless Router RT-AX56U,496
+CUPS (IPP),487
+"Juniper Networks, Inc.",486
+D-Link DCS-936L,485
+GoAhead Embedded Web Server,481
+Amazon S3 httpd,477
+ASUS Wireless Router RT-AC5300,464
+Netflix,457
+kngx,446
+Tableau Server,443
+Sophos SSL VPN User Portal,424
+MS-SQL Server 2017 RTM,422
+Connectra Check Point Web Security httpd,417
+Netatalk,417
+Mbedthis Appweb,413
+RealVNC Enterprise,375
+Dahua DVR,368
+MS-SQL Server 2019 CU15+,361
+MS-SQL Server 2014 SP3,359
+ASUS Wireless Router RT-AC87U,357
+Apple remote desktop vnc,357
+Splunk Cloud,355
+ASUS Wireless Router GT-AC5300,349
+DirectAdmin,349
+Sendmail,329
+Outlook Web App,320
+WildFly,310
+Geth,308
+MikroTik router ftpd,303
+mini_httpd,301
+GoAhead-Webs httpd,299
+MS-SQL Server 2005 SP4,290
+Consul,279
+Microsoft RPC Endpoint Mapper over HTTP,278
+Lego Server,277
+D-Link DCS-2630L,270
+MS-SQL Server 2014 RTM,270
+ASUS Wireless Router GT-AC2900 SH,265
+gSOAP soap,264
+Dahua HCVR,261
+Microsoft RPC,249
+Splunk Server,247
+ASUS Wireless Router,245
+Memcached,238
+ASUS Wireless Router Lyra,235
+Steam Dedicated Server,235
+iBoss Cloud,223
+Allegro RomPager,222
+micro_httpd,222
+ASUS Wireless Router TUF-AX5400,220
+ASUS Wireless Router RT-AX3000,219
+AirPlay,209
+"Brocade Communication Systems, Inc. (formerly 'Foundry Networks, Inc.')",205
+D-Link DCS-942LB1,203
+Boa HTTPd,198
+D-Link DCS-5222L,194
+iperf3,182
+Heimdal Kerberos,180
+pyftpdlib,179
+Subversion,174
+ClickHouse,170
+Grafana (Enterprise),169
+MS-SQL Server 2012 RTM,168
+ASUS Wireless Router RT-AX92U,162
+Lotus Domino httpd,162
+ASUS Wireless Router RT-AX53U,161
+NoMachine NX Server remote desktop,159
+MS-SQL Server 2019 GDR1+,157
+Windows 2003 Kerberos,154
+DrayTek Vigor2926 Series,153
+ASUS Wireless Router RT-AX86S,150
+Gunicorn,150
+Docker Registry HTTP API,148
+Dovecot imapd,147
+Sarian Systems Limited,147
+MS-SQL Server 2017 CU28+,146
+WebRTC,146
+Dahua NVR,142
+WeOnlyDo sshd,141
+D-Link DCS-942L,140
+NATS,140
+Ventrilo,139
+CouchDB,138
+MS-SQL Server 2008 R2 RTM,138
+oftpd,137
+Microsoft ESMTP,135
+uhttpd Web Server,131
+Apple AirPlay httpd,130
+MS-SQL Server 2017 CU23,129
+SAProuter,129
+uc-httpd,128
+ASUS Wireless Router RT-AC53,127
+Virata-EmWeb,126
+DD-WRT milli_httpd,125
+iKuai,124
+Linksys WRT45G modified dropbear sshd,122
+Sonos CONNECT:AMP,122
+TwistedWeb httpd,122
+Typesense,122
+HP iLO,121
+Linksys wireless-G WAP http config,121
+MS-SQL Server 2019 CU15,118
+Cross Web Server,117
+MS-SQL Server 2008 R2 SP2,117
+Dahua DHI-NVR2104HS-P-4KS2,112
+MS-SQL Server 2022 CTP1.0+,110
+FPBX,109
+Echo,108
+vsftpd,108
+Dahua DHI-NVR2108HS-8P-4KS2,103
+FortiGate Endpoint Control httpd,102
+D-Link router 1.0.0,100
+Dahua DH-XVR5108HS-X,100
+SMC SMC2870W Wireless Ethernet Bridge,99
+etcd,98
+wormholes,98
+Pulse Secure,95
+Asterisk,93
+"Ruijie Networks Co., Ltd. (formerly 'Start Network Technology Co., Ltd.')",92
+CherryPy httpd,91
+ASUS Wireless Router RT-AC56S,88
+Check Point SVN foundation httpd,88
+SCS sshd,88
+Spotify Connect,88
+Dahua DH-XVR5104HS-X1,87
+Firebird RDBMS,87
+Microsoft Windows RPC over HTTP,87
+WEBrick httpd,87
+mt-daapd DAAP,87
+ASUS Wireless Router RT-AC58U,86
+Synology DiskStation NAS ftpd,85
+MS-SQL Server 2019 CU8,84
+ASUS Wireless Router RT-AC1300UHP,83
+Dahua DH-XVR5216AN-X,83
+ASUS Wireless Router ZenWiFi Pro XT12,79
+Cisco catalyst switch telnetd,79
+openHAB,79
+MS-SQL Server 2008 R2 SP2+,78
+"U.C. Davis, ECE Dept. Tom",78
+Barracuda Networks Spam Firewall smtpd,77
+D-Link DLS-2750U ftp firmward update,77
+MS-SQL Server 2016 SP1,77
+Apache ActiveMQ,76
+Quagga routing software,75
+D-Link DCS-8000LH,74
+ASUS Wireless Router RT-AC66U B1,73
+"Fortinet, Inc.",73
+TLS,73
+Hydra,72
+MS-SQL Server 2017 RTM+,72
+MS-SQL Server 2014 SP3CU4,71
+MS-SQL Server 2016 SP2,71
+Dahua DHI-NVR4216-16P-4KS2,70
+MS-SQL Server 2016 RTM,70
+ASUS Wireless Router RT-AC3200,69
+FreeBSD ftpd,68
+MS-SQL Server 2012 SP3,68
+Dahua DHI-NVR4104HS-P-4KS2,67
+OpenFlow,67
+bytex,65
+Counter-Strike: Global Offensive,64
+GeoVision GeoHttpServer for webcams,64
+Kangle Web Server,64
+MS-SQL Server 2000 SP1+,64
+"SonicWALL, Inc.",64
+Dovecot pop3d,63
+TightVNC Java Viewer,63
+Mumble Server,61
+Oracle WebLogic Server,61
+PS3 Media Server UPnP,61
+iPlanet web proxy,61
+thttpd,61
+3Proxy http proxy,60
+Microsoft IIS,60
+Alt-N MDaemon mail server,59
+Salt,58
+Thin,58
+Apple AirPort,57
+MDaemon pop3d,57
+MS-SQL Server 2012 SP1+,57
+MS-SQL Server 2014 SP1,56
+TFTP,56
+D-Link Corporation 3G Router DWR-711,55
+Dahua DHI-XVR5216AN-S2,55
+MS .NET Remoting services,55
+Stormshield Network Security,55
+Xiaomi IoT,55
+ASUS Wireless Router RT-AX89X,54
+Salesforce,53
+Famatech Radmin,52
+MS-SQL Server 2014 RTM+,51
+MikroTik http proxy,51
+Nginx Microsoft HTTPAPI httpd,51
+ARK: Survival Evolved,50
+ASUS Wireless Router RT-AC66U,50
+Aruba Instant,50
+V130-33-TR20,50
+Kerio Connect Webmail,49
+MS-SQL Server 2016 SP3,49
+MS-SQL Server 2017 CU19,49
+ASUS Wireless Router RT-AC85U,47
+Remedy AR System Server,47
+MS-SQL Server 2017 CU27,46
+cloudflare-nginx,46
+Apple Remote Desktop,45
+Dahua DHI-NVR4208-8P-4KS2,45
+Dahua DHI-XVR5108HS-S2,45
+DrayTek Vigor2925 Series,45
+EasyVPN V7.11 rc10,45
+"Hikvision Digital Technology Co., Ltd.",45
+MS-SQL Server 2014 SP2,45
+MS-SQL Server 2016 RTM+,45
+MS-SQL Server 2019 CU12,44
+Ncat http proxy,44
+Oracle XML DB Enterprise Edition httpd,44
+Resin Web Server,44
+Serv-U ftpd,44
+Dahua K-NL416K,43
+MS-SQL Server 2012 SP2,43
+Cisco PIX sanitized smtpd,42
+Dahua DHI-XVR5104HS-S2,42
+MS-SQL Server 2016 SP3+,42
+"Alcatel-Lucent (formerly 'Panthera Networks, Inc.')",41
+rdate,41
+Dahua DH-XVR5104HS-X,40
+IBM HTTP Server,40
+ASUS Wireless Router RT-AC66U_B1,39
+Aruba Networks Inc,39
+Dahua DHI-HCVR5104HS-S3,39
+HP Integrated Lights-Out mpSSH,39
+LG webOS TV,39
+TRENDnet IP Camera,39
+WSGIServer,39
+mailfront smtpd,39
+ERLite-3,38
+ASUS Wireless Router GT-AC2900,37
+"Brocade Communications Systems, Inc.",37
+MS-SQL Server 2012 SP4+,37
+ClamAV,36
+Dahua DHI-NVR2104-P-4KS2,36
+MS-SQL Server 2008 RTM,36
+Meter-Gear,36
+pysnmp,36
+Dahua DHI-XVR4104HS,35
+Kerio Connect smtpd,35
+Unrecognized SMTP service,35
+Glastopf honeypot,34
+Haproxy http proxy,34
+IBM WebSphere Application Server,34
+Vault,34
+vIPtela Inc.,34
+ASUS Wireless Router RT-N56U,33
+Dahua DHI-HCVR5108HS-S3,33
+HttpFileServer httpd,33
+Indy httpd,33
+MDaemon smtpd,33
+MS-SQL Server 2016 SP2+,33
+TANDBERG/4137 (X12.5.6),33
+TruVision NVR/DVR/IP Camera,33
+ASUS Wireless Router çµèAC3000,32
+Docker,32
+GPRS Tunneling Protocol,32
+IP Camera,32
+MS-SQL Server 2016 SP2CU16,32
+smbx,32
+Agranat-EmWeb,31
+Dahua DH-XVR4104HS-X1,31
+Dahua DHI-NVR5216-16P-4KS2,31
+Gaspot,31
+SonicWALL SSL-VPN http proxy,31
+D-Link DIR-868L WAP http config,30
+MS-SQL Server 2017 CU22,30
+Windows qotd,30
+MS-SQL Server 2019 CU14,29
+Netscape Enterprise httpd,29
+Oracle GlassFish,29
+ASUS Wireless Router BRT-AC828,28
+ASUS Wireless Router LYRA VOICE,28
+ASUS Wireless Router RT-AC55UHP,28
+D-Link DCS-5020L webcam http interface,28
+Elastichoney,28
+MS-SQL Server,28
+Mono-HTTPAPI,28
+Oracle Application Server 10g httpd,28
+Oracle HTTP Server Powered by Apache,28
+Sun GlassFish,28
+Unreal ircd,28
+Dahua DHI-XVR5104HS,27
+Fortinet VPN/firewall sshd,27
+MS-SQL Server 2019 CU10,27
+Netwave IP camera http config,27
+Couchbase Server,26
+Dahua DHI-NVR5216-16P-4KS2E,26
+MS-SQL Server 2012 RTM+,26
+Niagara Fox,26
+Philips Hue Bridge v2 (BSB002),26
+Axigen smtpd,25
+FileZilla ftpd,25
+Hewlett-Packard,25
+Microsoft Windows USA daytime,25
+RealVNC,25
+Werkzeug,25
+ASUS Wireless Router RT-N66U,24
+D-Link DCS-930LB1 webcam http interface,24
+Dahua DHI-NVR5208-8P-4KS2,24
+Dahua DHI-XVR5216AN,24
+MS-SQL Server 2014 SP2+,24
+MS-SQL Server 2016 SP1CU15+,24
+Plan 9 tftpd,24
+Advanced Message Queue Protocol,23
+Dahua DH-XVR5216AN-I2,23
+StatsD,23
+Symantec Messaging Gateway smtpd,23
+V130-33-RA22,23
+VMware vCenter Server,23
+ASUS Wireless Router RT-N12HP_B1,22
+CJServer,22
+Cobalt Strike Beacon,22
+Cyrus pop3d,22
+IBM DB2 Database Server,22
+MS-SQL Server 2019 CU13,22
+OpenSMTPD,22
+Android Debug Bridge,21
+D-Link DCS-8100LH,21
+Dahua DHI-NVR5432-4KS2,21
+Dahua K-NL404K,21
+MS-SQL Server 2014 SP3+,21
+MS-SQL Server 2017 CU25,21
+Microsoft Exchange 2010 smtpd,21
+OpenSIPS SIP Server,21
+Wowza Media Server,21
+Xlight ftpd,21
+ActiveMQ OpenWire Transport,20
+Cerberus FTP Server,20
+Compaq,20
+Surgemail webmail,20
+Dahua DHI-XVR4108HS,19
+Dahua K-NL408K,19
+DrayTek Vigor2927 Series,19
+Google Gmail pop3d,19
+MS-SQL Server 2014 SP1+,19
+MS-SQL Server 2016 SP1+,19
+monit httpd,19
+Abyss httpd,18
+Counter-Strike,18
+Dahua DHI-NVR4416-16P-4KS2,18
+Google Gmail imapd,18
+Interactsh HTTP Server,18
+MS-SQL Server 2005 RTM,18
+MS-SQL Server 2012 SP1,18
+MS-SQL Server 2012 SP4,18
+bor,18
+ASUS Wireless Router RT-AC85MR,17
+ASUS Wireless Router RT-N12D1,17
+CockroachDB,17
+Dahua DH-XVR5108HS-I2,17
+Dahua DHI-NVR4104-4KS2,17
+Dahua DHI-NVR4216-16P-4KS2/L,17
+Dahua DHI-NVR5216-4KS2,17
+Dahua-based DH-XVR5104HS-I3,17
+Dahua-based Network recorder,17
+HBase,17
+IceWarp smtpd,17
+Interactsh SMTP Server,17
+Java Message Service,17
+PowerDNS dnsdist,17
+SNMP Research,17
+VanDyke VShell,17
+ASUS Wireless Router RT-AX1800HP,16
+Asterisk Call Manager,16
+Dahua DHI-NVR5208-8P-4KS2E,16
+Dell Inc.,16
+EZproxy web proxy,16
+Google httpd,16
+IdeaWebServer httpd,16
+IronPort AsyncOS http config,16
+MS-SQL Server 2016 SP1CU8,16
+Media Lite 1.0,16
+Qnginx,16
+xplay.gg,16
+Balance Servers TCAdmin game hosting ftpd,15
+CoreFTP sshd,15
+D-Link DIR-865L WAP http config,15
+Dahua DH-XVR4108HS-X1,15
+Dahua DHI-HCVR5216A-S3,15
+DrayTek Vigor2860 Series,15
+EasyVPN V7.12 rc0,15
+Kerio Connect webmail httpd,15
+MS-SQL Server 2005 SP2,15
+NetApp filer httpd,15
+QNAP TS-231 TS-231,15
+QNAP TS-251+ TS-251+,15
+QNAP TS-269 Pro TS-269 Pro,15
+rblsmtpd wrapped smtpd,15
+"ADB P.DG A4001N WAP, Cisco Telepresence MCU 4505, or Digifort Enterprise 6.5 httpd",14
+CommuniGate Pro httpd,14
+Dahua DH-XVR5104HS-I3,14
+Dahua DHI-HCVR4104HS-S3,14
+Dahua DHI-HCVR4108HS-S3,14
+Debut embedded httpd,14
+NetScreen sshd,14
+Nethermind,14
+TwistedWeb,14
+UniFi Video,14
+"Version dev ()
+Compiled at using Go go1.18.3 (amd64)",14
+nPerf,14
+rippled,14
+ASUS Wireless Router BLUE CAVE,13
+ASUS Wireless Router çµèXD6S,13
+Apache Hive,13
+Conexant-EmWeb,13
+Dahua DHI-HCVR4116HS-S3,13
+Dahua-based DHI-NVR4216-16P-4KS2/L,13
+MS-SQL Server 2014,13
+MS-SQL Server 2014 SP3CU4+,13
+MS-SQL Server 2019 CU9,13
+Paramiko Python sshd,13
+Pulse Secure Network Connect 8.3,13
+QNAP TS-451+ TS-451+,13
+QNAP TS-469 Pro TS-469 Pro,13
+RealPort,13
+Rumpus httpd,13
+Sun GlassFish Open Source Edition,13
+Web-Based Enterprise Management CIM serverOpenPegasus WBEM httpd,13
+ASUS Wireless Router 4G-AC68U,12
+ASUS Wireless Router RT-AC56U,12
+CCProxy http proxy,12
+D-Link DCS-1130L,12
+Dahua DH-XVR5108HS-I3,12
+Dahua DHI-HCVR5104HS-NT,12
+Dahua DHI-NVR2108HS-8P-I2,12
+DrayTek Vigor 2820 ADSL router ftpd,12
+DrayTek Vigor2960 Series,12
+Empire Net,12
+MS-SQL Server 2019 CU11,12
+MS-SQL Server 2019 CU4,12
+MS-SQL Server 2019 CU5,12
+Python SMTP Proxy,12
+Signify Philips hue bridge 2015 BSB002,12
+SunSSH,12
+Tridium Niagara httpd,12
+"Version dev ()
+Compiled at using Go go1.19 (amd64)",12
+bftpd,12
+vsftpd (before 2.0.8) or WU-FTPD,12
+ASUS Wireless Router 4G-AX56,11
+Asterisk PBX 11.25.1-vici,11
+Cisco router tftpd,11
+D-Link DCS-2121,11
+Dahua DH-XVR5216AN-4KL-X,11
+Dahua DHI-HCVR5116HS-S3,11
+Dahua DHI-XVR4108HS-S2,11
+ESET NOD32 anti-virus smtp proxy,11
+EchoLink radio-over-VoIP,11
+Ganglia XML Grid monitor,11
+Honeytrap,11
+MS-SQL Server 2008 R2 SP1,11
+MS-SQL Server 2008 R2 SP3,11
+MS-SQL Server 2016 SP2CU17,11
+MS-SQL Server 2016 SP2CU17+,11
+Mongrel httpd,11
+Net Insight AB,11
+OpenEthereum,11
+Rhinosoft Serv-U httpd,11
+Sun ONE Web Server,11
+Zope httpd,11
+govn,11
+lancom sshd,11
+xinetd chargen,11
+ASUS Wireless Router RT-AX56U V2,10
+ASUSTeK Computer Inc. RT-AC53 3.0.0.4.380,10
+Android Debug Bridge (ADB),10
+Canon printer web interface,10
+DDoS-Guard,10
+DVR,10
+Dahua DH/HCVR5108HS-V4/-AF-DVR-II-A/8-1,10
+Dahua DHI-NVR2104HS-P-I2,10
+Dahua DHI-NVR5464-4KS2,10
+Dahua DHI-XVR4104HS-S2,10
+Dahua NVR-P,10
+Dahua-based DVR,10
+Hybrid ircd,10
+Junoscript XML Interface,10
+Linksys WRT OpenWrt http config,10
+Lotus Domino smtpd,10
+MS-SQL Server 2000 SP4,10
+MS-SQL Server 2012 SP3+,10
+MS-SQL Server 2017 CU20,10
+Mathopd httpd,10
+Oracle Application Server httpd,10
+QNAP TS-269 Pro,10
+Sandpiper Footprint http load balancer,10
+Snail:Dark and light,10
+The FreeBSD Project,10
+Veritas Backup Exec ndmp,10
+WebFS httpd,10
+besu,10
+tinc vpn daemon,10
+AudioCodes MP-124 SIP gateway sshd,9
+CISCO-SBC/2.x,9
+D-Link DCS-5211L,9
+Dahua DH-NVR4216-16P-HDS2,9
+Dahua DHI-NVR420,9
+Dahua DHI-NVR5832-4KS2,9
+Dahua DHI-NVR608-32-4KS2,9
+Dahua-based DH-XVR5108HS-I3,9
+Dahua-based DH-XVR5216AN-I3,9
+DrayTek Vigor 2820n ADSL router sshd,9
+Oracle HTTP Server,9
+Swift,9
+WS FTPd,9
+ASUS Wireless Router çµèAX6600,8
+ASUSTeK Computer Inc. RT-N56U 3.0.0.4.374,8
+Broadcom Corporation,8
+Dahua DH-NVR4416-16P-HDS2/L,8
+Dahua DH-XVR5104HS-I2,8
+Dahua DH-XVR5216AN-I3,8
+Dahua DH-XVR5432L-X,8
+Dahua DHI-HCVR5208A-S3,8
+Dahua DHI-NVR4432-4KS2,8
+Dahua DHI-NVR5864-4KS2,8
+Dahua DHI-XVR4116HS-S2,8
+Dahua DHI-XVR5432L,8
+GNU Inetutils FTPd,8
+IPBrick,8
+Interactsh LDAP Server,8
+JBoss Enterprise Application Platform,8
+Lantronix X90,8
+MS-SQL Server 2008 R2 SP3+,8
+MS-SQL Server 2017 CU17,8
+MS-SQL Server 2017 CU28,8
+QNAP TS-251+,8
+QNAP TS-469 Pro,8
+QNAP TVS-473 TVS-473,8
+TANDBERG/4144 (X14.0.4),8
+TANDBERG/4144 (X14.0.9),8
+Xiaongmai DVR,8
+ZenTrunk,8
+erigon,8
+smartbchd,8
+ASUS Wireless Router RT-N14UHP,7
+ASUS Wireless Router çµèAXé­æ¹,7
+"Airespace, Inc (formerly 'Black Storm Networks')",7
+Asterisk PBX 13.38.3-vici,7
+Cisco IronPort C160 firewall smtpd,7
+Citadel smtpd,7
+ConnexCS Cloud Switch,7
+Dahua DH-XVR5116HS-X,7
+Dahua DH-XVR5232AN-X,7
+Dahua DHI-HCVR5216AN-S3,7
+Dahua DHI-NVR4204-P-4KS2,7
+Dahua DHI-NVR4216-4KS2,7
+Dahua DHI-NVR5416-4KS2,7
+Dahua DHI-NVR608-64-4KS2,7
+Dahua DHI-XVR5108HS,7
+Dahua VTO6210B,7
+Deltapath frSIP UC 3.3.2,7
+Gene6 ftpd,7
+IPBX-2.11.0(16.16.1),7
+Icecast streaming media server,7
+Kittenx,7
+MS-SQL Server 2008 R2 SP1+,7
+MS-SQL Server 2014 RTMCU14,7
+MS-SQL Server 2017 CU13,7
+MS-SQL Server 2017 CU22+,7
+MS-SQL Server 2017 CU24,7
+MS-SQL Server 2017 RC1,7
+MS-SQL Server 2019 GDR1,7
+Munin,7
+ProFTPD or KnFTPD,7
+QNAP TS-251,7
+QNAP TS-669 Pro,7
+Titan ftpd,7
+Tuya,7
+Twilio Gateway,7
+VPN2VOIP,7
+"Version dev ()
+Compiled at using Go go1.18.2 (amd64)",7
+Xitami httpd,7
+eth,7
+polygon-edge,7
+3S-Smart Software Solutions,6
+ASUS Wireless Router ZenWiFi ET8,6
+ASUS Wireless Router çµèAX5400,6
+Access Remote PC smtpd,6
+Alcatel-Lucent Enterprise (previous was 'Alcatel'),6
+Alfresco CIFS Server 6.0.0,6
+AndroMouse Android remote mouse server,6
+Apache Advanced Extranet Server httpd,6
+Asterisk PBX,6
+Cassandra,6
+D-Link DCS-930L webcam http interface,6
+Dahua DH/HCVR4104HS-V3/-AF-DVR-II-A/4-1,6
+Dahua DHI-NVR421,6
+Dahua DHI-NVR5416-16P-4KS2,6
+Dahua DHI-XVR5208A,6
+Dahua DHI-XVR7416L,6
+Dahua DHI-XVR7816S,6
+EasyVPN V7.11 rc7,6
+"EnGenius Networks, Inc.",6
+"Force10 Networks, Inc.",6
+GoAhead-Webs embedded httpd,6
+Grafana,6
+IMail NT-ESMTP,6
+LANCOM Server,6
+MS .NET Remoting httpd,6
+MS-SQL Server 2005 SP3,6
+MS-SQL Server 2008 SP4,6
+MS-SQL Server 2016 SP2CU4,6
+MS-SQL Server 2017 CU12,6
+MS-SQL Server 2017 CU5,6
+MS-SQL Server 2019 CU8+,6
+MagnusBilling,6
+MiniDLNA,6
+Panasonic AVC Server,6
+QNAP TS-269L,6
+QNAP TS-673,6
+SBOPlus,6
+Surgemail smtpd,6
+TwonkyMedia UPnP,6
+UW imapd,6
+Ultr@VNC Repeater,6
+"Version dev ()
+Compiled at using Go go1.18.4 (amd64)",6
+Vtun Virtual Tunnel,6
+WatchGuard Technologies Inc.,6
+WebLogic applications server,6
+WinWebMail smtpd,6
+XMail SMTP server,6
+Yeastar PSE,6
+ZyXEL ZyWALL sshd,6
+libssh,6
+ASUS Wireless Router GT-AXE16000,5
+ASUS Wireless Router R7000,5
+ASUS Wireless Router RT-AC3100,5
+ASUSTeK Computer Inc. RT-N56U 3.0.0.4.376,5
+Asterisk PBX 13.21.1-vici,5
+Blue Server,5
+CP,5
+Conan Exiles,5
+CoreGeth,5
+Counter Strike: Global Offensive,5
+Counter-Strike: Source,5
+D-Link DCS-8330LH,5
+D-Link DCS-933L webcam http interface,5
+Dahua DH-NVR4216-16P-HD,5
+Dahua DH-NVR608-32-4KS2,5
+Dahua DH/HCVR4104HS-V4/-AF-DVR-II-A/4-1,5
+Dahua DHI-NVR2104-P-4KS2_TELNET,5
+Dahua DHI-NVR410,5
+Dahua DHI-NVR4104HS-P-4KS2/L,5
+Dahua DHI-NVR4416-4KS2,5
+Dahua DHI-NVR5208-4KS2,5
+Dahua DHI-NVR5232-4KS2,5
+Dahua DHI-NVR5424-24P-4KS2,5
+Dahua DHI-XVR5116HS-S2,5
+Dahua K-NL308K/G,5
+DrayTek Vigor2120 Series,5
+DrayTek Vigor2133 Series,5
+ERPoe-5,5
+Extreme Networks,5
+Gabey,5
+Indy,5
+InfoBlox Inc.,5
+JAMES smtpd,5
+Lotus Domino International httpd,5
+MS-SQL Server 2008 R2 RTM+,5
+MS-SQL Server 2012 SP1CU8,5
+MS-SQL Server 2014 SP3CU3+,5
+MS-SQL Server 2016 SP2CU10,5
+MS-SQL Server 2017 CU21,5
+MS-SQL Server 2019 CU6,5
+MyPBX,5
+NcFTPd,5
+Polycom SoundPoint VoIP phone http config,5
+Q-Client,5
+QNAP TS-231+ TS-231+,5
+QNAP TS-251 TS-251,5
+QNAP TS-251A,5
+QNAP TS-251A TS-251A,5
+QNAP TS-253A TS-253A,5
+QNAP TS-419P II,5
+QNAP TS-419P II TS-419P II,5
+QNAP TS-451+,5
+QNAP TS-453A TS-453A,5
+QNAP TVS-473,5
+QNAP TVS-682 TVS-682,5
+Reliable Event Logging Protocol,5
+"Shenzhen Yichen (JCG) Technology Co., Ltd. JHR-AC836M 86.11.2",5
+"Sonos, Inc. Sonos CONNECT:AMP ZP120",5
+Synology DS1513+ 6.2-25556,5
+Synology DS918+ 6.2-25556,5
+TANDBERG/4137 (X12.5.3),5
+Ubiquiti AirRouter,5
+VMware Workstation,5
+Wildix Collaboration,5
+World Client WDaemon httpd,5
+"Zhejiang Uniview Technologies Co.,Ltd. | UNV IP camera / NVR – DVR",5
+Zscaler ftp proxy,5
+v0.8.0,5
+zFTPServer,5
+2Wire HomePortal touer http config,4
+APC AOS cryptlib sshd,4
+Avocent Corporation,4
+Bitvise WinSSHD,4
+CCProxy smtp proxy,4
+Cisco router daytime,4
+D-Link DCS-5020L_50 webcam http interface,4
+D-Link DCS-5020L_A2 webcam http interface,4
+D-Link DCS-5020L_AC webcam http interface,4
+D-Link DCS-930LB1_38 webcam http interface,4
+D-Link DCS-930L_19 webcam http interface,4
+Dahua DH-NVR4416-16P-HDS2,4
+Dahua DH-NVR4432-HDS2,4
+Dahua DH-NVR808-32-HD,4
+Dahua DH-NVR808-32-HDS2,4
+Dahua DH-XVR5108H-4KL-X,4
+Dahua DH-XVR5208AN-4KL-X,4
+Dahua DH/HCVR5104HS-V4/-AF-DVR-II-A/4-1,4
+Dahua DHI-HCVR4232AN-S3,4
+Dahua DHI-HCVR5116HS-NT,4
+Dahua DHI-HCVR5216AN-NT,4
+Dahua DHI-NVR4116HS-4KS2,4
+Dahua DHI-NVR5224-24P-4KS2,4
+Dahua DHI-NVR5232-16P-4KS2E,4
+Dahua DHI-XVR5216A,4
+Dahua DHI-XVR5416L,4
+Dahua Network recorder,4
+Dahua XVR5216AN-X,4
+Dahua-based DHI-NVR2104HS-P-S3,4
+Dahua-based DHI-NVR4104HS-P-4KS2/L,4
+Dahua-based DHI-NVR5216-16P-4KS2E,4
+Dionaea honeypot ftpd,4
+DrayTek Vigor2912 Series,4
+EasyVPN V7.11 rc9,4
+Eggdrop irc bot console,4
+EthereumJS TestRPC,4
+F-Secure WinNT sshd,4
+F5 BIG-IP,4
+GlobalScape CuteFTP sshd,4
+Hewlett Packard Enterprise iLO 5 in ProLiant DL380 Gen10 1.35,4
+IceWarp webmail httpd,4
+Internet Authentication Service,4
+Juniper Network Connect 7.1.0 (Pulse Secure),4
+Kerio Connect nntpd,4
+Lantronix,4
+Lotus Domino POP3 server,4
+MS-SQL Server 2016 SP2CU13,4
+MS-SQL Server 2016 SP2CU14,4
+MS-SQL Server 2017 CU15+,4
+MS-SQL Server 2017 CU16,4
+MS-SQL Server 2017 CU18,4
+Mail2000 smtpd,4
+Metarix-Chain,4
+Microsoft,4
+Mist,4
+"Moxa Technologies Co., Ltd.",4
+MoxaHttp,4
+"NetScreen Technologies, Inc.",4
+Ntop web interface,4
+O'Reilly WebSite Pro,4
+Pulse Secure Network Connect 9.0,4
+QNAP TS-212,4
+QNAP TS-212 TS-212,4
+QNAP TS-219P II,4
+QNAP TS-221 TS-221,4
+QNAP TS-228A,4
+QNAP TS-231,4
+QNAP TS-231+,4
+QNAP TS-253 Pro TS-253 Pro,4
+QNAP TS-253D TS-253D,4
+QNAP TS-453D TS-453D,4
+QNAP TS-469L TS-469L,4
+QNAP TS-470 Pro,4
+Rockwell Automation/Allen-Bradley,4
+TANDBERG/4144 (X12.6.2),4
+TANDBERG/4144 (X14.0.7),4
+Trendnet TV-IP672WI,4
+Venus Info Tech Inc.,4
+"Version dev ()
+Compiled at using Go go1.17.2 (amd64)",4
+Winmail smtpd,4
+Yeastar S100-30.14.0.127,4
+cPanel httpd,4
+kamailio (5.2.8 (x86_64/linux)),4
+libwww-perl-daemon httpd,4
+lpd,4
+ASUS Wireless Router GT-AX11000 BO4,3
+ASUS Wireless Router RT-AC1200,3
+ASUS Wireless Router TUF-AX3000 V2,3
+ASUSTeK Computer Inc. RT-AC55UHP 3.0.0.4.378,3
+ASUSTeK Computer Inc. RT-AC56S 3.0.0.4.376,3
+ASUSTeK Computer Inc. RT-N56U 3.0.0.4.378,3
+ASUSTeK Computer Inc. Wi-Fi Protected Setup Router RT-AX86U,3
+Asterisk PBX 13.29.2-vici,3
+Asterisk PBX 13.38.3,3
+Brother/HP printer ftpd,3
+Cisco SSH,3
+Cisco fingerd,3
+Citrix Metaframe ICA Browser,3
+Communigate Pro SMTP,3
+Cortex,3
+Couchbase Sync Gateway,3
+D-Link DCS-5000L_29 webcam http interface,3
+D-Link DCS-5020L_60 webcam http interface,3
+D-Link DCS-5020L_7E webcam http interface,3
+D-Link DCS-5020L_B6 webcam http interface,3
+D-Link DCS-5020L_BA webcam http interface,3
+D-Link DCS-5020L_C0 webcam http interface,3
+D-Link DCS-5020L_DE webcam http interface,3
+D-Link DCS-5030L_90 webcam http interface,3
+D-Link DCS-5230L,3
+D-Link DCS-930L_1A webcam http interface,3
+D-Link DCS-930L_24 webcam http interface,3
+D-Link DCS-930L_2B webcam http interface,3
+D-Link DCS-930L_3B webcam http interface,3
+D-Link DCS-930L_47 webcam http interface,3
+D-Link DCS-930L_72 webcam http interface,3
+D-Link DCS-930L_79 webcam http interface,3
+D-Link DCS-930L_82 webcam http interface,3
+D-Link DCS-930L_A6 webcam http interface,3
+D-Link DCS-930L_A9 webcam http interface,3
+D-Link DCS-930L_BD webcam http interface,3
+D-Link DCS-930L_D7 webcam http interface,3
+D-Link DCS-930L_EE webcam http interface,3
+D-Link DIR-300 WAP http admin,3
+D-Link DIR-850L WAP http config,3
+"D-Link Systems, Inc.",3
+Dahua DH-NVR2108HS-8P-HDS3,3
+Dahua DH-NVR4216-16P-HDS2/H,3
+Dahua DH-NVR4232-4K,3
+Dahua DH-NVR4232-HDS2,3
+Dahua DH-XVR1B08H,3
+Dahua DH-XVR4116HS-X,3
+Dahua DH-XVR5116HS-I2,3
+Dahua DH-XVR5216A-X,3
+Dahua DH-XVR7108HE-4KL-X,3
+Dahua DHI-HCVR5108HS-NT,3
+Dahua DHI-NVR4108-8P-4KS2,3
+Dahua DHI-NVR4208-4KS2,3
+Dahua DHI-NVR4216-4KS2/L,3
+Dahua DHI-NVR4232-16P-4KS2,3
+Dahua DHI-NVR4832-4K,3
+Dahua DHI-NVR5416-16P-4KS2E,3
+Dahua DHI-NVR5832-16P-4KS2,3
+Dahua DHI-XVR5104HE-S2,3
+Dahua DHI-XVR5816S,3
+Dahua IP2M-841B,3
+Dahua IP4M-1051,3
+Dahua TI814X,3
+Dahua-based CJ-HDR104B,3
+Dahua-based DHI-NVR2108HS-8P-S3,3
+Dahua-based XVR,3
+DayZ,3
+Deltapath frSIP UC 5.1.1,3
+ERPro-8,3
+EZ-IP NVR1B04HC-4P/E,3
+Eggdrop IRC bot console,3
+EnGenius_Router,3
+FPBX-15.0.23.25(16.28.0),3
+FPBX-16.0.30(18.13.0),3
+FreSSH,3
+HardhatNetwork,3
+Hewlett-Packard Enterprise iLO 5 in ProLiant DL325 Gen10 2.30,3
+Homebridge,3
+IPBX-2.11.0(11.25.3),3
